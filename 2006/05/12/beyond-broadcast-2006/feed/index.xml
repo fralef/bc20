@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Beyond Broadcast 2006	</title>
+	<atom:link href="/bc20/2006/05/12/beyond-broadcast-2006/feed/" rel="self" type="application/rss+xml" />
+	<link>/bc20/2006/05/12/beyond-broadcast-2006/</link>
+	<description>Emerging technologies for one-to-many telecommunications</description>
+	<lastBuildDate>Mon, 09 Oct 2006 02:03:34 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<item>
+		<title>
+		By: P2P		</title>
+		<link>/bc20/2006/05/12/beyond-broadcast-2006/comment-page-1/#comment-298</link>
+
+		<dc:creator><![CDATA[P2P]]></dc:creator>
+		<pubDate>Mon, 09 Oct 2006 02:03:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2006/05/12/beyond-broadcast-2006/#comment-298</guid>
+
+					<description><![CDATA[CCIPTV Live Server Professional Edition is the next generation Peer to Peer Streaming Media professional server. It can easily distribute local video, audio files or data sources such as TV card, compression card or microphone to the internet with limited bandwidth and server resources. Hence, you can start up an IPTV web site to support more than ten thousands people in a short time.
+Our system applies P2P Streaming Media Core technology. This technology is a cheap and high efficient streaming media transmitting technology. Under P2P system, not all users will download data from the servers. Users will also share data among each other. Therefore, when number of user increases, the server load and bandwidth usage won’t be sharply increased and this helps to reduce the server and bandwidth requirements.
+Normal Streaming Media server can support 300 hundred users to watch 300Kbps movie at the same time. With the same server hardware and bandwidth, CCIPTV Live Server Professional can support more than 10,000 users.
+
+  
+
+Functions
+
+P2P Streaming Media Core Technology, reduce server hardware and bandwidth requirements
+Our system applies P2P Streaming Media Core technology. This technology is a cheap and high efficient streaming media transmitting technology. It fully utilizes the users’ idle upload bandwidth to help servers to distribute media data. Under P2P system, not all users will download data from the servers. Users will also share data among each other. Therefore, when the number of user increases, the server load and bandwidth usage won’t be sharply increased and this helps to reduce the server and bandwidth requirements.
+
+Support multiple file formats and different media capture mode
+Capture and Push system support rm, rmvb, mpeg, mpg, mpeg4, avi, wmv, wma and mp3…etc file formats. They also support TV capture card, compression card, capture card, web cam and microphone. 
+Intellective re-connection after disconnection, adopting complex and unstable environment   
+To the problem of complex net environment and intermittent disconnection etc., the system developed relevant module, which can re-connect after disconnection and identify network status intellectively to ensure the system stability.
+
+Player can be opened in a web page link
+Player can be opened by clicking the web page&#039;s URL, which provides enough exerting space for developer. They can process logging in and charging etc. on the web page.
+
+
+System Structure
+
+Our system includes three parts:
+1. CCIPTV Push
+2. CCIPTV Live Server
+3. CCIPTV Player (CCIPTV Live Podcaster) 
+
+CCIPTV CCIPTV Push collects TV programs recorded from different ways with different sources and pushes the data to CCIPTV Live Server. After buffering, CCIPTV Live Server will distribute data to each client -- CCIPTV Live Podcaster. Because our system is based on P2P technology, clients can redistribute data to each other. Therefore, server-side network traffic can be sharply reduced. 
+
+1. CCIPTV Push
+CCIPTV Push can collect data from TV card, compression card, capture card, web cam, microphone, local media files and stream the collected data out to CCIPTV Live Server. It supports rm, rmvb, mpeg, mpg, mpeg4, avi, wmv, wma, mp3, DVD… file formats.
+
+2. CCIPTV Live Server Professional Edition
+CCIPTV server professional edition is an edition for common web server. It supports single server P2P Streaming Media broadcasting services and all capturing functions of CCIPTV Live Podcaster. Using CCIPTV Server Professional edition, the TV supervisor can build up on-line live channels which can support more than ten thousand people at the same time.
+
+3. CCIPTV Player (CCIPTV Live Podcaster)
+CCIPTV Live Podcaster is the player of our podcasting system, can be used to play and redistribute media data. Users are required to install the player.]]></description>
+			<content:encoded><![CDATA[<p>CCIPTV Live Server Professional Edition is the next generation Peer to Peer Streaming Media professional server. It can easily distribute local video, audio files or data sources such as TV card, compression card or microphone to the internet with limited bandwidth and server resources. Hence, you can start up an IPTV web site to support more than ten thousands people in a short time.<br />
+Our system applies P2P Streaming Media Core technology. This technology is a cheap and high efficient streaming media transmitting technology. Under P2P system, not all users will download data from the servers. Users will also share data among each other. Therefore, when number of user increases, the server load and bandwidth usage won’t be sharply increased and this helps to reduce the server and bandwidth requirements.<br />
+Normal Streaming Media server can support 300 hundred users to watch 300Kbps movie at the same time. With the same server hardware and bandwidth, CCIPTV Live Server Professional can support more than 10,000 users.</p>
+<p>Functions</p>
+<p>P2P Streaming Media Core Technology, reduce server hardware and bandwidth requirements<br />
+Our system applies P2P Streaming Media Core technology. This technology is a cheap and high efficient streaming media transmitting technology. It fully utilizes the users’ idle upload bandwidth to help servers to distribute media data. Under P2P system, not all users will download data from the servers. Users will also share data among each other. Therefore, when the number of user increases, the server load and bandwidth usage won’t be sharply increased and this helps to reduce the server and bandwidth requirements.</p>
+<p>Support multiple file formats and different media capture mode<br />
+Capture and Push system support rm, rmvb, mpeg, mpg, mpeg4, avi, wmv, wma and mp3…etc file formats. They also support TV capture card, compression card, capture card, web cam and microphone.<br />
+Intellective re-connection after disconnection, adopting complex and unstable environment<br />
+To the problem of complex net environment and intermittent disconnection etc., the system developed relevant module, which can re-connect after disconnection and identify network status intellectively to ensure the system stability.</p>
+<p>Player can be opened in a web page link<br />
+Player can be opened by clicking the web page&#8217;s URL, which provides enough exerting space for developer. They can process logging in and charging etc. on the web page.</p>
+<p>System Structure</p>
+<p>Our system includes three parts:<br />
+1. CCIPTV Push<br />
+2. CCIPTV Live Server<br />
+3. CCIPTV Player (CCIPTV Live Podcaster) </p>
+<p>CCIPTV CCIPTV Push collects TV programs recorded from different ways with different sources and pushes the data to CCIPTV Live Server. After buffering, CCIPTV Live Server will distribute data to each client &#8212; CCIPTV Live Podcaster. Because our system is based on P2P technology, clients can redistribute data to each other. Therefore, server-side network traffic can be sharply reduced. </p>
+<p>1. CCIPTV Push<br />
+CCIPTV Push can collect data from TV card, compression card, capture card, web cam, microphone, local media files and stream the collected data out to CCIPTV Live Server. It supports rm, rmvb, mpeg, mpg, mpeg4, avi, wmv, wma, mp3, DVD… file formats.</p>
+<p>2. CCIPTV Live Server Professional Edition<br />
+CCIPTV server professional edition is an edition for common web server. It supports single server P2P Streaming Media broadcasting services and all capturing functions of CCIPTV Live Podcaster. Using CCIPTV Server Professional edition, the TV supervisor can build up on-line live channels which can support more than ten thousand people at the same time.</p>
+<p>3. CCIPTV Player (CCIPTV Live Podcaster)<br />
+CCIPTV Live Podcaster is the player of our podcasting system, can be used to play and redistribute media data. Users are required to install the player.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

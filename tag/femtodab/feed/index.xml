@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FemtoDAB &#8211; Broadcasting 2.0</title>
+	<atom:link href="/bc20/tag/femtodab/feed/" rel="self" type="application/rss+xml" />
+	<link>/bc20/</link>
+	<description>Emerging technologies for one-to-many telecommunications</description>
+	<lastBuildDate>Wed, 24 Jun 2009 21:05:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<item>
+		<title>FemtoDAB</title>
+		<link>/bc20/2009/06/24/femtodab/</link>
+					<comments>/bc20/2009/06/24/femtodab/#comments</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Wed, 24 Jun 2009 20:50:00 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Consumer devices]]></category>
+		<category><![CDATA[Infrastructures]]></category>
+		<category><![CDATA[Services]]></category>
+		<category><![CDATA[3G]]></category>
+		<category><![CDATA[broadcasting 2.0]]></category>
+		<category><![CDATA[CRC]]></category>
+		<category><![CDATA[DAB]]></category>
+		<category><![CDATA[FemtoDAB]]></category>
+		<category><![CDATA[mobile phones]]></category>
+		<category><![CDATA[radio]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/06/24/femtodab/</guid>
+
+					<description><![CDATA[According to this article, Vodafone will be next week the first mobile network operator to launch a femtocell product in Europe: &#8220;Looking like a home router, femtocells give 3G coverage indoors, and use home broadband to connect calls across the Internet to the mobile network.&#8221; &#8220;&#8230; will be available on different price plans&#8230; Essentially, the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>According to <a href="http://www.eweekeurope.co.uk/news/vodafone-launches-home-3g-femtocell-in-the-uk-1203">this article</a>, Vodafone will be next week the first mobile network operator to launch a femtocell product in Europe:</p>
+<blockquote>
+<p>&#8220;Looking like a home router, femtocells give 3G coverage indoors, and use home broadband to connect calls across the Internet to the mobile network.&#8221;</p>
+<p>&#8220;&#8230; will be available on different price plans&#8230; Essentially, the femto is free to anyone on a £30 contract, and £5 otherwise &#8211; including dongle customers&#8221;</p>
+</blockquote>
+<p>Femtocells are in fact compact devices (similar to Wi-Fi routers) that act as very low power cell phone base stations that can be installed in end-users premises. Typical cell phones can connect to them instead of the remote &#8220;high-power&#8221; towers operated by mobile network operators. Femtocells carry the usual communication services through standard Internet connections in homes and offices.</p>
+<p>Key benefits to operators (O) and users (U):</p>
+<ul>
+<li>Better in-building coverage (O, U)</li>
+<li>Overall network infrastructure can eventually be operated at lower power levels (O)</li>
+<li>Off-loading cellular networks (O)</li>
+<li>MNOs can still charge service costs while using end-users resources (Internet) (O)</li>
+<li>Use the mobile device at home at lower rates (U)</li>
+<li>Does not need regular phone service at home anymore (O, U)</li>
+</ul>
+<p>Could this femtocell approach be exploited in the context of digital broadcasting as well? At CRC, we have developed a <a href="http://mmbtools.crc.ca/">compact software transmitter for DAB</a>. This platform could be further integrated as a low-cost personal DAB transmitter or FemtoDAB cell!</p>
+<p>Such a FemtoDAB approach could offer interesting benefits:</p>
+<ul>
+<li>Better in-building coverage (O, U)</li>
+<li>Overall network infrastructure can eventually be operated at lower power levels (O)</li>
+<li>Outdoor, indoor roaming with the same device (broadcast enabled handhelds) (U)</li>
+<li>Transmission of additional Internet radio content in the femtoDAB cell (U)</li>
+</ul>
+<p>One of the challenges will be to make FemtoDAB more attractive than the Wi-Fi options.</p>
+<p>Do you see any use cases for FemtoDAB?</p>
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bc20/2009/06/24/femtodab/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Livio NPR Radio	</title>
+	<atom:link href="/bc20/2009/11/26/livio-npr-radio/feed/" rel="self" type="application/rss+xml" />
+	<link>/bc20/2009/11/26/livio-npr-radio/</link>
+	<description>Emerging technologies for one-to-many telecommunications</description>
+	<lastBuildDate>Sat, 28 Nov 2009 04:00:14 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<item>
+		<title>
+		By: Peter Cook		</title>
+		<link>/bc20/2009/11/26/livio-npr-radio/comment-page-1/#comment-15644</link>
+
+		<dc:creator><![CDATA[Peter Cook]]></dc:creator>
+		<pubDate>Sat, 28 Nov 2009 04:00:14 +0000</pubDate>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/11/26/livio-npr-radio/#comment-15644</guid>
+
+					<description><![CDATA[Salut François. 
+
+I just discovered your blog and am enjoying it very much.
+
+Have you seen the CBC &quot;app&quot; for the SqueezeBox? 
+
+http://www.mysqueezebox.com/appgallery/CBC
+
+It points to an opml file I put together for CBC Radio 1, 2 &#038; 3. I should add the French net content!
+
+Great to meet you earlier this week.]]></description>
+			<content:encoded><![CDATA[<p>Salut François. </p>
+<p>I just discovered your blog and am enjoying it very much.</p>
+<p>Have you seen the CBC &#8220;app&#8221; for the SqueezeBox? </p>
+<p><a href="http://www.mysqueezebox.com/appgallery/CBC" rel="nofollow ugc">http://www.mysqueezebox.com/appgallery/CBC</a></p>
+<p>It points to an opml file I put together for CBC Radio 1, 2 &amp; 3. I should add the French net content!</p>
+<p>Great to meet you earlier this week.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

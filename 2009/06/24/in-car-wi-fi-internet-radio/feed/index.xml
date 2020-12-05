@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: In-car Wi-Fi Internet Radio	</title>
+	<atom:link href="/bc20/2009/06/24/in-car-wi-fi-internet-radio/feed/" rel="self" type="application/rss+xml" />
+	<link>/bc20/2009/06/24/in-car-wi-fi-internet-radio/</link>
+	<description>Emerging technologies for one-to-many telecommunications</description>
+	<lastBuildDate>Mon, 20 Sep 2010 02:34:14 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<item>
+		<title>
+		By: smartin		</title>
+		<link>/bc20/2009/06/24/in-car-wi-fi-internet-radio/comment-page-1/#comment-18683</link>
+
+		<dc:creator><![CDATA[smartin]]></dc:creator>
+		<pubDate>Mon, 20 Sep 2010 02:34:14 +0000</pubDate>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/06/24/in-car-wi-fi-internet-radio/#comment-18683</guid>
+
+					<description><![CDATA[Try using Shoutcast..... I think there is a need for free public wifi infrastructure... revenue would have to be collected from advertisers and broadcasters not the listeners. The problem is bandwidth and the fact that wifi frequencies are narrow and microwave data signals don&#039;t travel the way vhf frequencies do. Most providers are not capable of handling this project mostly due to its risky nature not to mention fcc and government intervention and enormous costs to set up. We are sill far behind, eventually we will get there but there are many questions that arise.]]></description>
+			<content:encoded><![CDATA[<p>Try using Shoutcast&#8230;.. I think there is a need for free public wifi infrastructure&#8230; revenue would have to be collected from advertisers and broadcasters not the listeners. The problem is bandwidth and the fact that wifi frequencies are narrow and microwave data signals don&#8217;t travel the way vhf frequencies do. Most providers are not capable of handling this project mostly due to its risky nature not to mention fcc and government intervention and enormous costs to set up. We are sill far behind, eventually we will get there but there are many questions that arise.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: detoxtechy		</title>
+		<link>/bc20/2009/06/24/in-car-wi-fi-internet-radio/comment-page-1/#comment-14888</link>
+
+		<dc:creator><![CDATA[detoxtechy]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2009 01:30:08 +0000</pubDate>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/06/24/in-car-wi-fi-internet-radio/#comment-14888</guid>
+
+					<description><![CDATA[Internet Radios are cool. i listen to them most of the time aside from watching videos on youtube. i am also trying to learn how to put my own personal internet radio.]]></description>
+			<content:encoded><![CDATA[<p>Internet Radios are cool. i listen to them most of the time aside from watching videos on youtube. i am also trying to learn how to put my own personal internet radio.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

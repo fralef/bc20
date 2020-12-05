@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: links for 2006-03-06	</title>
+	<atom:link href="/bc20/2006/03/06/links-for-2006-03-06/feed/" rel="self" type="application/rss+xml" />
+	<link>/bc20/2006/03/06/links-for-2006-03-06/</link>
+	<description>Emerging technologies for one-to-many telecommunications</description>
+	<lastBuildDate>Tue, 07 Mar 2006 01:44:28 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<item>
+		<title>
+		By: Jean-Michel Bouffard		</title>
+		<link>/bc20/2006/03/06/links-for-2006-03-06/comment-page-1/#comment-22</link>
+
+		<dc:creator><![CDATA[Jean-Michel Bouffard]]></dc:creator>
+		<pubDate>Tue, 07 Mar 2006 01:44:28 +0000</pubDate>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2006/03/06/links-for-2006-03-06/#comment-22</guid>
+
+					<description><![CDATA[Here is a comparable media cataloging web application: http://lib.rario.us/]]></description>
+			<content:encoded><![CDATA[<p>Here is a comparable media cataloging web application: <a href="http://lib.rario.us/" rel="nofollow ugc">http://lib.rario.us/</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

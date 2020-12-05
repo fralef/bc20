@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>set-top-box &#8211; Broadcasting 2.0</title>
+	<atom:link href="/bc20/tag/set-top-box/feed/" rel="self" type="application/rss+xml" />
+	<link>/bc20/</link>
+	<description>Emerging technologies for one-to-many telecommunications</description>
+	<lastBuildDate>Tue, 07 Jul 2009 19:54:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<item>
+		<title>FLOSS Media Centers</title>
+		<link>/bc20/2009/07/07/floss-media-centers/</link>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Tue, 07 Jul 2009 19:54:05 +0000</pubDate>
+				<category><![CDATA[Consumer devices]]></category>
+		<category><![CDATA[Networked media]]></category>
+		<category><![CDATA[broadcasting 2.0]]></category>
+		<category><![CDATA[Internet streaming]]></category>
+		<category><![CDATA[Internet TV]]></category>
+		<category><![CDATA[media center]]></category>
+		<category><![CDATA[set-top-box]]></category>
+		<category><![CDATA[stb]]></category>
+		<category><![CDATA[TV]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/07/07/floss-media-centers/</guid>
+
+					<description><![CDATA[Media centers could become the main interfaces to media content in home networks . The Telematics Freedom Foundation recently released a short report on Free Libre Open Source Software (FLOSS) options here. The report compares features of projects like XBMC, MythTV, freevo, Moovida (Elisa) and so on.]]></description>
+										<content:encoded><![CDATA[<p>Media centers could become the main interfaces to media content in home networks . The Telematics Freedom Foundation recently released a short report on Free Libre Open Source Software (FLOSS) options <a href="http://www.telematicsfreedom.org/en/project/14/floss-media-center-state-art">here</a>. The report compares features of projects like XBMC, MythTV, freevo, Moovida (Elisa) and so on.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

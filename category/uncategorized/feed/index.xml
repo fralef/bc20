@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Broadcasting 2.0</title>
+	<atom:link href="/bc20/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/bc20/</link>
+	<description>Emerging technologies for one-to-many telecommunications</description>
+	<lastBuildDate>Mon, 22 Mar 2010 18:28:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<item>
+		<title>DigiBnetwork Launches First DAB+ DIN Car Radio Receiver</title>
+		<link>/bc20/2010/03/22/digibnetwork-launches-first-dab-din-car-radio-receiver/</link>
+					<comments>/bc20/2010/03/22/digibnetwork-launches-first-dab-din-car-radio-receiver/#comments</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Mon, 22 Mar 2010 18:22:15 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[DAB]]></category>
+		<category><![CDATA[handsets]]></category>
+		<category><![CDATA[in-car]]></category>
+		<category><![CDATA[Openmokast]]></category>
+		<category><![CDATA[radio]]></category>
+		<category><![CDATA[receiver]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2010/03/22/digibnetwork-launches-first-dab-din-car-radio-receiver/</guid>
+
+					<description><![CDATA[A new receiver is always good news for an emerging technology like DAB. A more interesting aspect of this launch though is the context that made it possible. DigiBnetwork, a commercial broadcaster in Malta, convinced a manufacturer to produce a new DIN car receiver. DigiBnetwork went as far as to create and own this new [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>A new receiver is always good news for an emerging technology like DAB.</p>
+<p>A more interesting aspect of this launch though is the context that made it possible.</p>
+<p><a href="http://www.digibnetwork.com/">DigiBnetwork</a>, a commercial broadcaster in <a href="http://en.wikipedia.org/wiki/Malta">Malta</a>, convinced a manufacturer to produce a new DIN car receiver. DigiBnetwork went as far as to create and own this new &#8220;bluestate&#8221; brand. DigiBnetworks now sells the receiver through EBay and its website. This, in a sense, represents a &#8220;verticalized&#8221; business model as DigiBnetwork has control over a whole DAB ecosystem: content, network, receivers. We typically know this type of control from mobile communications operators.</p>
+<p>I find this development quite exciting because it shows that even a small country like Malta can influence new developments in consumer electronics. With this development, it looks like the huge economies of scale and size of markets are not required anymore to justify the production of new devices. This is something we&#8217;ve been saying for a few years now with our <a href="http://openmokast.org/">Openmokast</a> project which we hoped would catalyze the emergence of broadcast smart phones MADE BY BROADCASTERS.</p>
+<p>The &#8220;bluestate&#8221; car receiver seems to be a step in this direction. Congratulations DigiBnetwork!</p>
+<p>Lets see now who comes up with the first broadcaster-led smart phone.</p>
+<p><img src="http://www.broadcasting20.org/wp-content/uploads/2010/03/Inbox-CRC.png" width="499" height="231" alt="Inbox - CRC.png" style="float:right;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bc20/2010/03/22/digibnetwork-launches-first-dab-din-car-radio-receiver/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Where They Destroy Packets&#8230;</title>
+		<link>/bc20/2009/05/14/where-they-destroy-packets/</link>
+					<comments>/bc20/2009/05/14/where-they-destroy-packets/#comments</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Fri, 15 May 2009 00:25:49 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Legislation]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[DPI]]></category>
+		<category><![CDATA[Internet]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/05/14/where-they-destroy-packets/</guid>
+
+					<description><![CDATA[I never had a good memory for proverbs and quotes. However, this one (in bold below) by &#8220;Heinrich Heine&#8221; stuck in my mind when I heard it some 15 years ago while visiting north Germany (Wikipedia excerpt): Among the thousands of books burned on Berlin&#8217;s Opernplatz in 1933, following the Nazi raid on the Institut [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>I never had a good memory for proverbs and quotes. However, this one (in bold below) by &#8220;<a href="http://en.wikipedia.org/wiki/Heinrich_Heine">Heinrich Heine</a>&#8221; stuck in my mind when I heard it some 15 years ago while visiting north Germany (Wikipedia excerpt):</p>
+<blockquote>
+<p>Among the thousands of books burned on Berlin&#8217;s Opernplatz in 1933, following the Nazi raid on the Institut für Sexualwissenschaft, were works by Heinrich Heine. To commemorate the terrible event, one of the most famous lines of Heine&#8217;s 1821 play Almansor was engraved in the ground at the site: <strong><em>&#8220;Dort, wo man Bücher verbrennt, verbrennt man am Ende auch Menschen.&#8221; (&#8220;Where they burn books, they will ultimately also burn people.&#8221;)</em></strong> In the original text, Heine had been referring to the burning of the Quran during the Spanish Inquisition.</p>
+</blockquote>
+<p>I&#8217;ve been trying to figure out a way to express the same idea but in relation to the Internet and the fact that it is being <a href="http://dpi.priv.gc.ca/">deep packet inspected</a> and throttled and filtered and fire-walled. I&#8217;m not so sure I figured it out yet but I came up with this line:</p>
+<blockquote>
+<p><em><strong>&#8220;Where they destroy packets, they will ultimately also destroy people&#8221;</strong></em></p>
+</blockquote>
+<p>I like it. Any ideas on how to improve it?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bc20/2009/05/14/where-they-destroy-packets/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Closed Skype Needs Openness</title>
+		<link>/bc20/2007/03/21/the-closed-skype-needs-openness/</link>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Thu, 22 Mar 2007 03:10:21 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2007/03/21/the-closed-skype-needs-openness/</guid>
+
+					<description><![CDATA[Skype requires an open Internet. A so called neutral net. That&#8217;s the case for fixed access and this will be no different in the mobile space. Carriers will understandably do all they can to stop that. So Skype has to support &#8220;open&#8221; values. The problem I see is that on the technology side, Skype is [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Skype requires an open Internet. A so called neutral net. That&#8217;s the case for fixed access and this will be no different in the mobile space. Carriers will understandably do all they can to stop that.</p>
+<p>So Skype has to support &#8220;open&#8221; values.</p>
+<p>The problem I see is that on the technology side, Skype is &#8220;closed&#8221;. It uses a proprietary protocol that is incompatible with SIP, the open standard widely adopted by the VOIP Industry.</p>
+<p>On the other hand, I suppose it&#8217;s a good thing to have Skype fight the net neutrality war with its big $$$$. Nothing will prevent me then, if they succeed, to use my favorite SIP-based mobile phone!</p>
+<p>Tags: <a href="http://technorati.com/tag/Skype">Skype</a>, <a href="http://technorati.com/tag/net%2neutrality">net neutrality</a>, <a href="http://technorati.com/tag/SIP">SIP</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>links for 2006-09-25</title>
+		<link>/bc20/2006/09/25/links-for-2006-09-25/</link>
+		
+		<dc:creator><![CDATA[delus]]></dc:creator>
+		<pubDate>Mon, 25 Sep 2006 23:23:25 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2006/09/25/links-for-2006-09-25/</guid>
+
+					<description><![CDATA[Live TV &#124; Products &#124; Vividas IP TV Back end solutions (tags: IPTV web streaming)]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>
+<div><a href="http://www.vividas.com/products/live-tv.html">Live TV | Products | Vividas</a></div>
+<div>IP TV Back end solutions</div>
+<div>(tags: <a href="http://del.icio.us/fralef/IPTV">IPTV</a> <a href="http://del.icio.us/fralef/web">web</a> <a href="http://del.icio.us/fralef/streaming">streaming</a>)</div>
+</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>links for 2006-08-30</title>
+		<link>/bc20/2006/08/30/links-for-2006-08-30/</link>
+		
+		<dc:creator><![CDATA[delus]]></dc:creator>
+		<pubDate>Wed, 30 Aug 2006 23:22:02 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2006/08/30/links-for-2006-08-30/</guid>
+
+					<description><![CDATA[Boing Boing: SpiralFrog, Uni launch &#8220;free iTunes alternative.&#8221; DRM, other restrictions apply. Different stories around the announcement of a Universal free music download service (tags: free music universal drm)]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>
+<div><a href="http://www.boingboing.net/2006/08/29/spiralfrog_uni_launc.html">Boing Boing: SpiralFrog, Uni launch &#8220;free iTunes alternative.&#8221; DRM, other restrictions apply.</a></div>
+<div>Different stories around the announcement of a Universal free music download service</div>
+<div>(tags: <a href="http://del.icio.us/fralef/free">free</a> <a href="http://del.icio.us/fralef/music">music</a> <a href="http://del.icio.us/fralef/universal">universal</a> <a href="http://del.icio.us/fralef/drm">drm</a>)</div>
+</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>links for 2006-07-16</title>
+		<link>/bc20/2006/07/16/links-for-2006-07-16/</link>
+		
+		<dc:creator><![CDATA[delus]]></dc:creator>
+		<pubDate>Sun, 16 Jul 2006 23:18:02 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2006/07/16/links-for-2006-07-16/</guid>
+
+					<description><![CDATA[Lulu TV Online videoclips with revenue model for posters (tags: youtube video clips internet)]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>
+<div><a href="http://www.lulu.tv/FAQ.php">Lulu TV</a></div>
+<div>Online videoclips with revenue model for posters</div>
+<div>(tags: <a href="http://del.icio.us/fralef/youtube">youtube</a> <a href="http://del.icio.us/fralef/video">video</a> <a href="http://del.icio.us/fralef/clips">clips</a> <a href="http://del.icio.us/fralef/internet">internet</a>)</div>
+</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>P2P Broadcasting</title>
+		<link>/bc20/2006/07/05/p2p-broadcasting/</link>
+					<comments>/bc20/2006/07/05/p2p-broadcasting/#comments</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Wed, 05 Jul 2006 19:53:56 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2006/07/05/p2p-broadcasting/</guid>
+
+					<description><![CDATA[I haven&#8217;t had much time to publish lately but I could not resist posting this. I recently had been wondering about the availability of WorldCup 2006 games on the Internet. I seemed pretty obvious to me that the games would be available through Bittorrent considering the very high interest it generates in the worldwide community. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>I haven&#8217;t had much time to publish lately but I could not resist posting this.</p>
+<p>I recently had been wondering about the availability of WorldCup 2006 games on the Internet. I seemed pretty obvious to me that the games would be available through Bittorrent considering the very high interest it generates in the worldwide community. While looking around for recent matches, I quickly realized that not only were they available for download but also as live streams. And it&#8217;s amazing how well it works.</p>
+<p>I &#8216;m currently watching the first half of the French-Portugal semi-finals live (1-0 right now). It simply works. I have a very good quality reception with constant 420kbps. I don&#8217;t know much about the technical details but the player I&#8217;m using is called TvAnts and is based on peer-to-peer (P2P) streaming. Installation details can be found <a href="http://www.ghacks.net/2006/06/09/worldcup-preparations/">here</a>. There actually seems to be many technical solutions for P2P streaming already. I&#8217;ll be looking into that later on.</p>
+<p>Although these re-transmission of commercial channels are probably not quite compliant with the FIFA terms, this clearly shows that the Internet infrastructure, when used adequately (P2P here), can already support large scale distribution of traditionally broadcast events.</p>
+<p><small>Tags: <a rel="tag" href="http://technorati.com/tag/peer-to-peer%2Bstreaming">peer-to-peer+streaming</a>, <a rel="tag" href="http://technorati.com/tag/worldcup">worldcup</a>, <a rel="tag" href="http://technorati.com/tag/TvAnts">TvAnts</a>, <a rel="tag" href="http://technorati.com/tag/broadcast%2Bevent">broadcast+event</a>, <a rel="tag" href="http://technorati.com/tag/TV">TV</a>, <a rel="tag" href="http://technorati.com/tag/internet%2Btv">internet+tv</a>, <a rel="tag" href="http://technorati.com/tag/Internet%2Bstreaming">Internet+streaming</a></small></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bc20/2006/07/05/p2p-broadcasting/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Journanalists</title>
+		<link>/bc20/2006/05/12/journanalists/</link>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Fri, 12 May 2006 15:43:15 +0000</pubDate>
+				<category><![CDATA[public broadcasting]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2006/05/12/journanalists/</guid>
+
+					<description><![CDATA[No, there&#8217;s no typo in the title. Bill Buzenberg of Minnesota Public Radio demonstrated this morning at &#8220;Beyond Broadcast 2006&#8221;, very interesting new &#8220;broadcast-conversations&#8221; applications based on the Web involving the audience. In many of the scenarios presented, journalists become more or less &#8220;analysts&#8221; of the massive data they get after submitting story proposals. They [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>No, there&#8217;s no typo in the title.</p>
+<p>Bill Buzenberg of <a href="http://www.broadcasting20.org/wp-admin/Bill%20busenberg">Minnesota Public Radio</a> demonstrated this morning at &#8220;Beyond Broadcast 2006&#8221;, very interesting new &#8220;broadcast-conversations&#8221;  applications based on the Web involving the audience.</p>
+<p>In many of the scenarios presented, journalists become more or less &#8220;analysts&#8221; of the massive data they get after submitting story proposals. They first do the voxpop before going to the specialists.</p>
+<p>So that&#8217;s where it comes from. I&#8217; m proposing a term for this new function: &#8220;Jounanalists&#8221;, resulting of course from the combination of journalist and analyst.</p>
+<p>Technorati Tags: beyondbroadcast, journanalists, journanalism</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>links for 2006-04-27</title>
+		<link>/bc20/2006/04/27/links-for-2006-04-27/</link>
+		
+		<dc:creator><![CDATA[delus]]></dc:creator>
+		<pubDate>Thu, 27 Apr 2006 23:18:40 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2006/04/27/links-for-2006-04-27/</guid>
+
+					<description><![CDATA[Yahoo! Go &#8211; TV &#8211; What Is It? A media player by Yahoo (tags: yahoo tv player media meedio)]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>
+<div><a href="http://go.connect.yahoo.com/go/tv">Yahoo! Go &#8211; TV &#8211; What Is It?</a></div>
+<div>A media player by Yahoo</div>
+<div>(tags: <a href="http://del.icio.us/fralef/yahoo">yahoo</a> <a href="http://del.icio.us/fralef/tv">tv</a> <a href="http://del.icio.us/fralef/player">player</a> <a href="http://del.icio.us/fralef/media">media</a> <a href="http://del.icio.us/fralef/meedio">meedio</a>)</div>
+</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>links for 2006-04-21</title>
+		<link>/bc20/2006/04/21/links-for-2006-04-21/</link>
+		
+		<dc:creator><![CDATA[delus]]></dc:creator>
+		<pubDate>Fri, 21 Apr 2006 23:21:48 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2006/04/21/links-for-2006-04-21/</guid>
+
+					<description><![CDATA[Free Image and Video Hosting &#8211; Photo Image Hosting Site &#8211; Online Photo Albums : Photobucket.com Even more popular than YouTube or Flickr (tags: photos videos hosting)]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>
+<div><a href="http://www.photobucket.com/">Free Image and Video Hosting &#8211; Photo Image Hosting Site &#8211; Online Photo Albums : Photobucket.com</a></div>
+<div>Even more popular than YouTube or Flickr</div>
+<div>(tags: <a href="http://del.icio.us/fralef/photos">photos</a> <a href="http://del.icio.us/fralef/videos">videos</a> <a href="http://del.icio.us/fralef/hosting">hosting</a>)</div>
+</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

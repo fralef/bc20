@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>twitter &#8211; Broadcasting 2.0</title>
+	<atom:link href="/bc20/tag/twitter/feed/" rel="self" type="application/rss+xml" />
+	<link>/bc20/</link>
+	<description>Emerging technologies for one-to-many telecommunications</description>
+	<lastBuildDate>Wed, 08 Jul 2009 05:36:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<item>
+		<title>Broadcasting the Twittersphere</title>
+		<link>/bc20/2009/07/08/twitter-bandwidth/</link>
+					<comments>/bc20/2009/07/08/twitter-bandwidth/#comments</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Wed, 08 Jul 2009 05:14:19 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Infrastructures]]></category>
+		<category><![CDATA[User Generated Media]]></category>
+		<category><![CDATA[broadcasting 2.0]]></category>
+		<category><![CDATA[DAB]]></category>
+		<category><![CDATA[datacasting]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[radio]]></category>
+		<category><![CDATA[twitter]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/07/08/twitter-bandwidth/</guid>
+
+					<description><![CDATA[I think that Twitter and micro-blogging in general have properties that could be exploited along with broadcasting services. I’ll write my thoughts about this later on. As a first step in this reflexion, I’d like to estimate the total bandwidth of Twitter, that is, how many kilobits per second are being Tweeted on average. I [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>I think that Twitter and micro-blogging in general have properties that could be exploited along with broadcasting services. I’ll write my thoughts about this later on.</p>
+<p>As a first step in this reflexion, I’d like to estimate the total bandwidth of Twitter, that is, how many kilobits per second are being Tweeted on average.</p>
+<p>I made a similar exercise some time ago with regards to the blogosphere in a post titled “<a href="http://www.broadcasting20.org/2006/03/13/broadcasting-the-blogosphere-30-million-voices-for-the-price-of-one-2/">Broadcasting the Blogosphere: 30 million voices for the price of one!</a>”.</p>
+<p>So I found some twitter services that provide relevant data. For example, <a href="http://www.tweespeed.com/speeds.jsp?period=hour&amp;duration=168">TweeSpeed</a> is an instant speed meter that shows the current number of tweets per minute. A graph showing the speed per hour during the last week is also available. A quick look at that graph now suggests that 700.000 tweets per hour would be a reasonable approximation for last week’s average, excluding the peek caused by the “Michael Jackson Effect”. <a href="http://www.twitpocalypse.com/">Twitpocalypse</a> currently reports 221 tweets per second which results in a similar value (221*60*60 =795.600 tweets per hour ). On another front, the recent HubSpot <a href="http://blog.hubspot.com/Portals/249/sotwitter09.pdf">State of the Twittershpere</a> report provides similar amounts on a daily basis instead of per hour. I suspect that this is a mistake. I’ll be pessimistic and take the largest number. The Hubspot report also informs on the distribution of actual tweet length. I’ll average the tweet length to 110 characters per tweet.</p>
+<p>So the math goes like this:</p>
+<p style="text-align: center;">110ch * 1byte/ch * 700k/hour = 77 Mbytes/hour</p>
+<p style="text-align: center;">or</p>
+<p style="text-align: center;"><font size="5"><span style="font-size: 18px;">TOTAL TWITTER BANDWIDTH = 170 kbps !</span></font></p>
+<p style="text-align: center;">
+<div style="text-align: left;">
+  Again, very surprising results! The current Twitter bandwidth is barely higher than a typical Internet or DAB radio station. The whole Twittershpere would only require to sacrifice a couple of off-air DAB stations in every market. I feel that very innovative datacasting/social applications could be built based on this!
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bc20/2009/07/08/twitter-bandwidth/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

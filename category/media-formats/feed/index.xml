@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Media formats &#8211; Broadcasting 2.0</title>
+	<atom:link href="/bc20/category/media-formats/feed/" rel="self" type="application/rss+xml" />
+	<link>/bc20/</link>
+	<description>Emerging technologies for one-to-many telecommunications</description>
+	<lastBuildDate>Wed, 15 Mar 2006 06:49:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<item>
+		<title>Podcast Transcripts and the Mechanical Turk</title>
+		<link>/bc20/2006/03/15/podcast-transcripts-and-the-mechanical-turk/</link>
+					<comments>/bc20/2006/03/15/podcast-transcripts-and-the-mechanical-turk/#comments</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Wed, 15 Mar 2006 06:00:56 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Media formats]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2006/03/15/podcast-transcripts-and-the-mechanical-turk/</guid>
+
+					<description><![CDATA[One of the recurring theme at ETECH last week was the &#8220;mechanical Turk&#8221;. In his introductory Keynote, Bruce Sterling first suggested that the artificial intelligence (AI) dream had slowed down the development of computer science in general. Because of this, research has been focused on emulating humans with machines, instead of complementing humans. Tim O&#8217;reilly [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>One of the recurring theme at ETECH last week was the &#8220;mechanical Turk&#8221;. In his introductory Keynote, Bruce Sterling first suggested that the artificial intelligence (AI) dream had slowed down the development of computer science in general. Because of this, research has been focused on emulating humans with machines, instead of complementing humans. Tim O&#8217;reilly talked about IA (intelligence augmentation) as opposed to AI. According to <a href="http://en.wikipedia.org/wiki/The_Turk">Wikipedia</a>:</p>
+<blockquote style="margin-right: 0px" dir="ltr"><p><strong>The Turk</strong> was a famous hoax which purported to be a chess-playing automaton first constructed and unveiled in 1769 by Wolfgang von Kempelen (1734-1804)</p></blockquote>
+<div style="text-align: center"><img hspace="0" border="0" alt="Mechanical Turk" src="http://broadcasting20.org/wp-content/uploads/2006/03/2006_03_14_mechanical_turk.jpg" /></div>
+<p align="justify">In other words, the mechanical Turk is about putting a human intelligence inside the machine.</p>
+<p align="justify">New web services are now implementing this very simple principle for applications where humans are much better than computers. In fact, amazon.com is offering a new open platform for the development of third party web services. It&#8217;s called&#8230; guess what? The &#8220;<a href="http://www.mturk.com/mturk/welcome">amazon mechanical turk</a>&#8221; on the theme &#8220;Artificial Artificial Intelligence&#8221;.</p>
+<p align="justify">More interesting to you, dear readers of Broadcasting 2.0, is that some people have built a podcasting transcription service called <a href="http://castingwords.com/">castingwords.com</a> and it is actually based on amazon&#8217;s Turk system. In fact, for 42 cents a minute, castingwords.com will transcribe almost any podcast (in English) within 24 hours with the help of amazon&#8217;s &#8220;tested&#8221; transcription Turks.</p>
+<p align="justify">And why would prodcast transcripts be useful? I think that they would mainly help increase the overall &#8220;granularity&#8221; of the &#8220;podcastsphere&#8221;. This, in turn, would drive much better finding, remixing and sharing capabilities.</p>
+<p align="justify">Most of the time right now, search results lead to full podcast files with variable durations ranging from some minutes up to over an hour. These searches normally operate on podcast names or short descriptions. As a consequence, a search for interviews with a specific politician (for example) would result in many hours of listening because there is no good mechanism to locate specific content inside a podcast itself.</p>
+<p align="justify">With good podcasts, &#8220;chapters&#8221; are very handy here but if you&#8217;re like me, your favorite podcast has no chapters. In my case, it&#8217;s a 2.5 hours French speaking CBC daily podcast called &#8220;<a href="http://www.radio-canada.ca/radio/indicatifpresent/index.shtml">Indicatif Présent</a>&#8220;. Can you imagine? 12.5 listening hours per week. Do I have time to listen to all this? No. Would I like to be able to locate stuff more precisely here? Absolutely. Why? Because I NEED to be able to skip what&#8217;s not interesting to me.</p>
+<p align="justify">Along with podcast tagging and content &#8220;markers&#8221;, transcripts would also support very important functions like remixing and sharing.</p>
+<p align="justify">To me, remixing is the capability that I need to aggregate my personal podcast stream based on podcast segments that I get from different sources. Remixing here is the ability to collate 10 minutes from one show here with 2 minutes from another one there with 15 minutes of music with&#8230;, and so on. Again, I can&#8217;t do that easily with my favorite CBC show right now. Podcast users, and probably most of us in the future, will want that flexibility. There is too much good content out there.</p>
+<p align="justify">Finally, transcripts alone may not be the solution but we need mechanisms to annotate (or tag) media content like we do for photos (<a href="http://www.flickr.com/">Flickr.com</a>) or bookmarks (<a href="http://del.icio.us/">del.icio.us.com</a>). Good annotation allows for better retrieving as well as sharing possibilities. Very often, I find myself having to write down podcasts timing information in order to retrieve specific segments or share them with friends. That&#8217;s not convenient at all.</p>
+<p align="justify">Coming back to our mechanical Turk and my favorite CBC podcast. With castingwords.com, the whole transcript of a single show would amount to roughly 75$ (46cents/min. x 150 min.). So is there a reason why CBC can&#8217;t do it right away (they could do it themselves if they wished). What is 75$ in a 2.5 hours public radio show budget?</p>
+<p align="justify">Observations of my own behavior make me think that it all comes down to this: either they do it or they won&#8217;t get my attention!</p>
+<p align="left">Technorati Tags : <a target="_blank" rel="tag" href="http://technorati.com/tag/mechanical+turk">mechanical+turk</a>, <a target="_blank" rel="tag" href="http://technorati.com/tag/podcast+transcripts">podcast+transcripts</a>, <a target="_blank" rel="tag" href="http://technorati.com/tag/cbc">cbc</a>, <a target="_blank" rel="tag" href="http://technorati.com/tag/podcasting">podcasting</a>, <a target="_blank" rel="tag" href="http://technorati.com/tag/podcast+chapters">podcast+chapters</a>, <a target="_blank" rel="tag" href="http://technorati.com/tag/podcast+segments">podcast+segments</a><!-- End Technorati Tags --><!-- End Technorati Tags --></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bc20/2006/03/15/podcast-transcripts-and-the-mechanical-turk/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MIPTV &#8211; MILIA digital pitching competition</title>
+		<link>/bc20/2006/01/19/miptv-milia-digital-pitching-competition/</link>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Thu, 19 Jan 2006 18:56:15 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Media formats]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2006/01/19/miptv-milia-digital-pitching-competition/</guid>
+
+					<description><![CDATA[I was at the Milia conference for the first time in Cannes, France, in 1993.&#160;Back then it was very well attended and presented great&#160;speakers (Nocholas Negroponte and others). Over the years they kept their focus on &#8220;content&#8221;. I was there three years ago again and even tough it was much smaller, great stuff was discussed [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>I was at the Milia conference for the first time in Cannes, France, in 1993.&nbsp;Back then it was very well attended and presented great&nbsp;speakers (Nocholas Negroponte and others). Over the years they kept their focus on &#8220;content&#8221;. I was there three years ago again and even tough it was much smaller, great stuff was discussed as they started to&nbsp;introduce &#8220;mobile content&#8221;.</div>
+<div>&nbsp;</div>
+<div>Last year Milia&nbsp;merged with MIPTV, a much larger event.&nbsp;This year again will have its deal of great &#8220;content&#8221;&nbsp;sessions.</div>
+<div>&nbsp;</div>
+<div>For those of you who have innovative ideas for multimedia content and applications, BBC and KBC (Korean Broadcsating Corporation) are organising a &#8220;pitching competion&#8221;. As you see here, they&#8217;ve got it all:</div>
+<blockquote dir=ltr style="MARGIN-RIGHT: 0px">
+<div>If you have concepts that push the boundaries for <strong>Interactive   mobile content and formats</strong>, creative solutions for   <strong>user-generated content</strong>, ideas that will help web users   navigate the <strong>&#8216;long tail&#8217; of a broadcaster&#146;s rich archives</strong>,   innovative content or applications for <strong>DMB Mobile TV</strong>, then   you should enter <strong>Content 360 &#8211; Digital Pitching Competition at MIPTV   featuring MILIA 2006</strong>.</div>
+</blockquote>
+<div dir=ltr>           &nbsp;</div>
+<div dir=ltr>A&nbsp;total of 75.000 Euros will be awarded to the best 5 pitches.</div>
+<div dir=ltr>&nbsp;</div>
+<div dir=ltr>Good luck!</div>
+<div dir=ltr>&nbsp;</div>
+<div dir=ltr><a href="http://www.miptv.com/images/100472/emailings/miptv2006_emailing1_content360.html">Link</a></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>BBC Integrated Media Player (iMP)</title>
+		<link>/bc20/2005/12/19/bbc-integrated-media-player-imp/</link>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Tue, 20 Dec 2005 03:21:16 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Infrastructures]]></category>
+		<category><![CDATA[Media formats]]></category>
+		<category><![CDATA[public broadcasting]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2005/12/19/bbc-integrated-media-player-imp/</guid>
+
+					<description><![CDATA[The BBC iMP is&#160;a great Broadcasting 2.0 software application. Since September, some lucky&#160;folks in the UK are actually testing it. &#160; The software builds a peer to peer (P2P) network to support the distribution of BBC content. Each file is DRM protected and stays accessible for 7 days after its &#8220;transmission&#8221;. In other words, it&#8217;s [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>The <a href="http://www.bbc.co.uk/imp/">BBC iMP</a> is&nbsp;a great Broadcasting 2.0 software application. Since September, some lucky&nbsp;folks in the UK are actually testing it.</div>
+<div>&nbsp;</div>
+<div>The software builds a peer to peer (P2P) network to support the distribution of BBC content. Each file is DRM protected and stays accessible for 7 days after its &#8220;transmission&#8221;. In other words, it&#8217;s a BBC only PVR with a one week memory. That&#8217;s quite limitative but hey, that&#8217;s just a trial. Let&#8217;s hope they get positive feedback from their community.</div>
+<div>&nbsp;</div>
+<div>And in the meantime, the trial period has been extended until the end of February 2006.</div>
+<div>&nbsp;</div>
+<blockquote dir=ltr style="MARGIN-RIGHT: 0px">
+<div>
+<p>Tony Ageh, BBC Controller, Internet says: &#8220;We really want to understand the   benefits that iMP can bring to our audiences. </p>
+<p>We know that there is likely to be a &#8216;honeymoon&#8217; period of a few weeks,   when our participants are likely to use iMP more often than normal. The data   from the extra two months should really help us to comprehend what users want   from the service and how they are using it.</p>
+<p>&#8220;This will be invaluable for us in making our case to the BBC Board of   Governors for a full roll out of iMP.&#8221;</p>
+</div>
+</blockquote>
+<p dir=ltr>&nbsp;</p>
+<p dir=ltr><a href="http://www.media247.co.uk/skydigital/newsarchive/2005/12/bbcs_imp_trial.php">Link</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>MPEG LASeR Standard</title>
+		<link>/bc20/2005/12/15/mpeg-laser-standard/</link>
+					<comments>/bc20/2005/12/15/mpeg-laser-standard/#comments</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Fri, 16 Dec 2005 02:25:05 +0000</pubDate>
+				<category><![CDATA[Media formats]]></category>
+		<category><![CDATA[Mobility]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2005/12/15/mpeg-laser-standard/</guid>
+
+					<description><![CDATA[LASeR is a recent open standardization effort&#160;targeting &#8220;rich media&#8221;&#160;mobile&#160;multimedia platforms. As such, it could&#160;become&#160;a component of the broadcasting DAB and DVB-H consumer devices.&#160; Here is an excerpt from the technical white paper: The inherent content and binary encoding structure makes it inappropriate for the mobile. Instead of compromising on the technology performances, MPEG reached the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>LASeR is a recent open standardization effort&nbsp;targeting &#8220;rich media&#8221;&nbsp;mobile&nbsp;multimedia platforms. As such, it could&nbsp;become&nbsp;a component of the broadcasting DAB and DVB-H consumer devices.&nbsp;</div>
+<div>Here is an excerpt from the <a href="http://www.mpeg-laser.org/documents/LASeRWhitePaper.pdf">technical white paper</a>:</div>
+<blockquote dir=ltr style="MARGIN-RIGHT: 0px">
+<div>The inherent content and binary encoding structure makes it inappropriate   for the mobile. Instead of compromising on the technology performances, MPEG   reached the conclusion that an optimum between feature richness/compression   efficiency and device constraints needed to be found and decided to create a   new standard for Rich Media for constrained devices.</div>
+</blockquote>
+<div><a href="http://www.mpeg-laser.org/">Link</a></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bc20/2005/12/15/mpeg-laser-standard/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Podcasting Survey at CBC</title>
+		<link>/bc20/2005/12/14/podcasting-survey-at-cbc/</link>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Thu, 15 Dec 2005 01:50:10 +0000</pubDate>
+				<category><![CDATA[Media formats]]></category>
+		<category><![CDATA[public broadcasting]]></category>
+		<category><![CDATA[Services]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2005/12/14/podcasting-survey-at-cbc/</guid>
+
+					<description><![CDATA[The Canadian Broadcasting Corporation,&#160;&#160;as well as its french counterpart SRC, has a limited but good podcast offering.&#160; CBC currently conducts a survey to better understand their listeners&#8217; needs. Would I be paying for the podcast shows? &#160; Before podcasting, my favorite radio show was &#8220;unavailable&#8221; to me. In fact, it airs daily from 9 to [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>The Canadian Broadcasting Corporation,&nbsp;&nbsp;as well as its french counterpart SRC, has a limited but good podcast offering.&nbsp; CBC currently conducts a survey to better understand their listeners&#8217; needs. Would I be paying for the podcast shows?</div>
+<div>&nbsp;</div>
+<div>Before podcasting, my favorite radio show was &#8220;unavailable&#8221; to me. In fact, it airs daily from 9 to 11 AM while&#8230; guess what? &#8230;I&#8217;m at work. Podcasting is not just a nice to have alternative. It&#8217;s the only way I can access this great content (for which I paid for&#8230; some fractions of seconds of it at least!).</div>
+<div>&nbsp;</div>
+<div>So before I have to pay for this,&nbsp;I would probably suggest to take down&nbsp;most of the costly FM transmitter networks and replace them by some inexpensive&nbsp;P2P seeding servers.</div>
+<div>&nbsp;</div>
+<div><a href="http://fineyoungjournalist.blogspot.com/2005/12/cbc-podcasting-survey.html">Link</a></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Will subscription media kill broadcacast?</title>
+		<link>/bc20/2005/11/16/a-good-question-by-tom-coates/</link>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Wed, 16 Nov 2005 13:35:29 +0000</pubDate>
+				<category><![CDATA[Media formats]]></category>
+		<category><![CDATA[Services]]></category>
+		<guid isPermaLink="false">http://www.barkany.ca/?p=14</guid>
+
+					<description><![CDATA[An interesting debate initiated by Tom Coates about streaming vs time-shifted media: &#160; &#8230;Because it&#8217;s not streaming that&#8217;s most affected by a combination of on demand and &#8216;deliver it to me&#8217; subscribable podcast-like functionality. The main potential victim here is broadcast itself. Those of us who have Tivos or PVR functionality are already used to [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div> An interesting debate initiated by Tom Coates about streaming vs time-shifted media:</div>
+<div>&nbsp;</div>
+<blockquote dir=ltr style="MARGIN-RIGHT: 0px">
+<div>&#8230;Because it&#8217;s not <i>streaming</i> that&#8217;s most affected by a   combination of on demand and &#8216;deliver it to me&#8217; subscribable podcast-like   functionality. The main potential victim here is <i>broadcast itself</i>.   Those of us who have Tivos or PVR functionality are already used to the idea   that we don&#8217;t have to sit in front of the television when something&#8217;s being   broadcast to watch our shows. And as a consequence, I very infrequently   do.</div>
+</blockquote>
+<div>&nbsp;</div>
+<div>Of course, time-shifting works fine as long as there is no need for live broadcasts. However,&nbsp;there will always be a need for live stuff like: sports events, breaking news, interactive-participatory shows, the President&#8217;s address to the nation, emergency warnings,&#8230; </div>
+<div>&nbsp;</div>
+<div><a href="http://www.plasticbag.org/archives/2005/11/will_subscription_media_kill_broadcast.shtml">Link</a></div>
+<div>&nbsp;</div>
+<div align=right><font FACE="VERDANA" COLOR="#000080" size=1><i>  <a HREF="http://www.qumana.com/" TARGET="_blank"></a></i></font>&nbsp;</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

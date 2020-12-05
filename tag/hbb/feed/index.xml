@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>HBB &#8211; Broadcasting 2.0</title>
+	<atom:link href="/bc20/tag/hbb/feed/" rel="self" type="application/rss+xml" />
+	<link>/bc20/</link>
+	<description>Emerging technologies for one-to-many telecommunications</description>
+	<lastBuildDate>Tue, 30 Jun 2009 12:54:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<item>
+		<title>Ads worth more on the net than on TV</title>
+		<link>/bc20/2009/06/30/ads-worth-more-on-the-net-than-on-tv/</link>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Tue, 30 Jun 2009 12:54:17 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Industry]]></category>
+		<category><![CDATA[Networked media]]></category>
+		<category><![CDATA[Services]]></category>
+		<category><![CDATA[advertising]]></category>
+		<category><![CDATA[broadcasting 2.0]]></category>
+		<category><![CDATA[HBB]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[new media]]></category>
+		<category><![CDATA[TV]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/06/30/ads-worth-more-on-the-net-than-on-tv/</guid>
+
+					<description><![CDATA[PC world reports that for the first time, advertising during a specific &#8220;TV&#8221; show will cost more on the net than on traditional TV channel: If a company wants to run ads alongside an episode of The Simpsons on Hulu or TV.com it will cost the advertiser about $60 per thousand viewers, according to Bloomberg. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.pcworld.com/article/167344">PC world</a> reports that for the first time, advertising during a specific &#8220;TV&#8221; show will cost more on the net than on traditional TV channel:</p>
+<blockquote>
+<p>If a company wants to run ads alongside an episode of The Simpsons on <a href="http://www.pcworld.com/article/166104/hulu_may_begin_charging_for_content.html?tk=rel_news" target="_blank">Hulu</a> or <a href="http://www.pcworld.com/article/160350/cbs_releases_tvcom_iphone_app.html?tk=rel_news" target="_blank">TV.com</a> it will cost the advertiser about $60 per thousand viewers, according to <a href="http://www.bloomberg.com/apps/news?pid=20601204&amp;sid=atKGiQOMco.Y" target="_blank">Bloomberg</a>. On prime-time TV that same ad will cost somewhere between $20 and $40 per thousand viewers.</p>
+</blockquote>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

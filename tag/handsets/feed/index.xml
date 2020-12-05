@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>handsets &#8211; Broadcasting 2.0</title>
+	<atom:link href="/bc20/tag/handsets/feed/" rel="self" type="application/rss+xml" />
+	<link>/bc20/</link>
+	<description>Emerging technologies for one-to-many telecommunications</description>
+	<lastBuildDate>Mon, 22 Mar 2010 18:28:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<item>
+		<title>DigiBnetwork Launches First DAB+ DIN Car Radio Receiver</title>
+		<link>/bc20/2010/03/22/digibnetwork-launches-first-dab-din-car-radio-receiver/</link>
+					<comments>/bc20/2010/03/22/digibnetwork-launches-first-dab-din-car-radio-receiver/#comments</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Mon, 22 Mar 2010 18:22:15 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[DAB]]></category>
+		<category><![CDATA[handsets]]></category>
+		<category><![CDATA[in-car]]></category>
+		<category><![CDATA[Openmokast]]></category>
+		<category><![CDATA[radio]]></category>
+		<category><![CDATA[receiver]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2010/03/22/digibnetwork-launches-first-dab-din-car-radio-receiver/</guid>
+
+					<description><![CDATA[A new receiver is always good news for an emerging technology like DAB. A more interesting aspect of this launch though is the context that made it possible. DigiBnetwork, a commercial broadcaster in Malta, convinced a manufacturer to produce a new DIN car receiver. DigiBnetwork went as far as to create and own this new [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>A new receiver is always good news for an emerging technology like DAB.</p>
+<p>A more interesting aspect of this launch though is the context that made it possible.</p>
+<p><a href="http://www.digibnetwork.com/">DigiBnetwork</a>, a commercial broadcaster in <a href="http://en.wikipedia.org/wiki/Malta">Malta</a>, convinced a manufacturer to produce a new DIN car receiver. DigiBnetwork went as far as to create and own this new &#8220;bluestate&#8221; brand. DigiBnetworks now sells the receiver through EBay and its website. This, in a sense, represents a &#8220;verticalized&#8221; business model as DigiBnetwork has control over a whole DAB ecosystem: content, network, receivers. We typically know this type of control from mobile communications operators.</p>
+<p>I find this development quite exciting because it shows that even a small country like Malta can influence new developments in consumer electronics. With this development, it looks like the huge economies of scale and size of markets are not required anymore to justify the production of new devices. This is something we&#8217;ve been saying for a few years now with our <a href="http://openmokast.org/">Openmokast</a> project which we hoped would catalyze the emergence of broadcast smart phones MADE BY BROADCASTERS.</p>
+<p>The &#8220;bluestate&#8221; car receiver seems to be a step in this direction. Congratulations DigiBnetwork!</p>
+<p>Lets see now who comes up with the first broadcaster-led smart phone.</p>
+<p><img src="http://www.broadcasting20.org/wp-content/uploads/2010/03/Inbox-CRC.png" width="499" height="231" alt="Inbox - CRC.png" style="float:right;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bc20/2010/03/22/digibnetwork-launches-first-dab-din-car-radio-receiver/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>My eComm 2009 Talk Now Available on Video</title>
+		<link>/bc20/2009/12/02/video-of-my-ecomm-2009-talk-now-available/</link>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Wed, 02 Dec 2009 18:44:29 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Consumer devices]]></category>
+		<category><![CDATA[Mobility]]></category>
+		<category><![CDATA[CRC]]></category>
+		<category><![CDATA[DAB]]></category>
+		<category><![CDATA[handsets]]></category>
+		<category><![CDATA[MMB]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[mobile phones]]></category>
+		<category><![CDATA[Openmokast]]></category>
+		<category><![CDATA[Openmoko]]></category>
+		<category><![CDATA[radio]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/12/02/video-of-my-ecomm-2009-talk-now-available/</guid>
+
+					<description><![CDATA[I&#8217;m happy that my eComm talk finally got published online, 8 months after the conference. Events sponsors got published much earlier but hey, that&#8217;s fair for a professionally produced clip. I must admit that the AV infrastructure and the team at the event were excellent. My talk was titled: &#8220;Mobile Digital Broadcasting: An Infrastructure for [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;m happy that my <a href="http://ecomm.ec/" title="eCommm website">eComm</a> talk finally got published online, 8 months after the conference. Events sponsors got published much earlier but hey, that&#8217;s fair for a professionally produced clip. I must admit that the AV infrastructure and the team at the event were excellent.</p>
+<p>My talk was titled: <i>&#8220;Mobile Digital Broadcasting: An Infrastructure for One-to-Many Converged Services&#8221;.</i> We took this opportunity to officially release our <a href="http://openmokast.org/">Openmokast</a> open source software framework. I was happy that my live demo worked as expected!</p>
+<p><center><embed src="http://blip.tv/play/1XuBsaEpAg" type="application/x-shockwave-flash" width="480" height="277" allowscriptaccess="always" allowfullscreen="true" /></center></p>
+<p>We had prepared a clip just in case the &#8220;demo effect&#8221; would hit on me on stage. Luckily this was not the case but the clip (which is more detailed than the live demo) can still be seen <a href="http://www.youtube.com/user/crcmmb#p/a/u/0/8IuDTn4-DIg">on our crcmmb Youtube Channel</a> or here below:</p>
+<p><center><br />
+  <object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/8IuDTn4-DIg&amp;hl=en_US&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><embed src="http://www.youtube.com/v/8IuDTn4-DIg&amp;hl=en_US&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295" /></object><br />
+</center></p>
+<p>And here are the slides I used for this presentation:</p>
+<p><center></p>
+<div style="width:425px;text-align:left" id="__ss_1108190">
+    <a style="font:14px Helvetica,Arial,Sans-serif;display:block;margin:12px 0 3px 0;text-decoration:underline;" href="http://www.slideshare.net/fralef/ecomm-presentation" title="eComm Presentation">eComm Presentation</a><object style="margin:0px" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=ecomm2009francoislefebvre-090305162651-phpapp01&amp;stripped_title=ecomm-presentation" /><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><embed src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=ecomm2009francoislefebvre-090305162651-phpapp01&amp;stripped_title=ecomm-presentation" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355" /></object></p>
+<div style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;">
+      View more <a style="text-decoration:underline;" href="http://www.slideshare.net/">documents</a> from <a style="text-decoration:underline;" href="http://www.slideshare.net/fralef">Francois Lefebvre</a>.
+    </div>
+</p></div>
+<p></center></p>
+<p>eComm was also for me a great occasion to meet with <a href="http://openbts.blogspot.com/">David Burges</a> who presented his <a href="http://openbts.sourceforge.net/" title="OpenBTS">OpenBTS project</a> live using the USRP as well. <a href="http://blog.ecomm.ec/2009/11/voip-to-gsm-air-interface.html">His demo</a> looked incredibly like mine except he demonstrated live cell phone communications going through his GSM open source base station. There are lots of commonalities between our projects but essentially, both are about democratizing communications technologies to catalyze innovation.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>App Stores Everywhere but in Broadcast Handsets</title>
+		<link>/bc20/2009/02/18/app-stores-everywhere-but-in-broadcast-handsets/</link>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Wed, 18 Feb 2009 15:30:13 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Consumer devices]]></category>
+		<category><![CDATA[Mobility]]></category>
+		<category><![CDATA[broadcasting 2.0]]></category>
+		<category><![CDATA[handsets]]></category>
+		<category><![CDATA[mobile phones]]></category>
+		<category><![CDATA[Software]]></category>
+		<category><![CDATA[softwre]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/02/18/app-stores-everywhere-but-in-broadcast-handsets/</guid>
+
+					<description><![CDATA[Application Stores are the big thing at the Mobile World Congress this week. Few stories here and here and here. While Apple&#8217;s AppStore and Google&#8217;s Android marketplace have been known for some time now, we hear that Nokia, Microsoft and RIM have similar plans. As we mention in our recent EBU paper, new functionality in [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Application Stores are the big thing at the <a href="http://www.mobileworldcongress.com/" title="MWC">Mobile World Congress</a> this week. Few stories <a href="http://news.bbc.co.uk/2/hi/technology/7892863.stm" title="BBC">here</a> and <a href="http://www.von.com/articles/wirelessip/mwc-microsoft-nokia-want-to-trump-apple.html" title="VON">here</a> and <a href="http://www.internetnews.com/breakingnews/article.php/3803411" title="Internet">here</a>. While Apple&#8217;s AppStore and Google&#8217;s Android marketplace have been known for some time now, we hear that Nokia, Microsoft and RIM have similar plans.</p>
+<p>As we mention in our <a href="http://tech.ebu.ch/webdav/site/tech/shared/techreview/trev_2008-Q4_Openmokast-CRC.pdf" title="EBU Tech Review">recent EBU paper</a>, new functionality in handsets will be done in software. This is quite new in the mobile world but we are definitely used to this principle with our personal computers. We buy software for them. That&#8217;s what makes them extremely flexible, evolutive and thus useful. This paradigm emerges on mobile phone platforms now because they are evolving as generic and powerful computing platforms too.</p>
+<p>This trend was identified early on by Apple (as usual) who created the AppStore as part of the iPhone ecosystem. The AppStore creates a marketplace for developers and end-users. Developers offer their new creations through the system, typically for a small fee, while end-users shop for applications through iTunes. The whole process of purchasing, installing and removing applications has been streamlined to provide a &#8220;frictionless&#8221; end-user experience, apart from the few dollars that one has to leave on the table!</p>
+<p>I believe that the key benefit from these new marketplaces for applications is innovation. A democratized marketplace for innovation.</p>
+<p>Before, application innovation was limited to MNOs and key partners of the mobility value chain. Now, anybody can create new applications. New applications will come from the masses, like Google, Wikipedia, Flickr, Youtube came from new players and non-incumbents.</p>
+<p>Also, with more open marketplaces comes increased competition. That is good for consumers. End-users are only one click away from competing applications.</p>
+<p>And what if the competing application is free? Such platforms will make &#8220;free&#8221; and &#8220;pay for&#8221; applications equally accessible. Could this lead to the erosion of the software market? Many think so. In order to sell their apps, developers will have no other choice but to offer leading edge products with truly exclusive features.</p>
+<p>What does this mean for broadcasting? At the moment not so much I guess. The perspective is attractive though. What if moving from DAB to DAB+ could simply be achieved through a new software app. A broadcaster would announce the move and asks its listeners to go buy the 2$ piece of software on the app store. In exchange, end users get more channels. Click, pay, download, &#8230; voila! What if all new broadcast applications could be offered this way? EPG, Slideshow, TPEG traffic overlay for google maps,&#8230; and so on. In fact, we don&#8217;t know what the mobile broadcast applications of the future will be. But we know it will be in software. We just need broadcast receivers in those handsets.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Radio on Mobile Devices</title>
+		<link>/bc20/2009/02/15/radio-on-mobile-devices/</link>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Sun, 15 Feb 2009 05:55:37 +0000</pubDate>
+				<category><![CDATA[Industry]]></category>
+		<category><![CDATA[Infrastructures]]></category>
+		<category><![CDATA[Mobility]]></category>
+		<category><![CDATA[handsets]]></category>
+		<category><![CDATA[mobile phones]]></category>
+		<category><![CDATA[Openmokast]]></category>
+		<category><![CDATA[Openmoko]]></category>
+		<category><![CDATA[radio]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/02/15/radio-on-mobile-devices/</guid>
+
+					<description><![CDATA[Mobility and radio go hand in hand. James Cridland reports on a current positive trend: &#8220;RAJAR’s recent figures were upbeat about listening to the radio on mobile devices. (They only monitor ‘listening via mobile phones’, despite many MP3 players also having FM radios built-in)&#8221; Competing business models between mobile network operators and broadcasters prevent broadcast [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Mobility and radio go hand in hand. James Cridland <a href="http://james.cridland.net/blog/2009/02/08/radio-on-mobile-devices/">reports</a> on a current positive trend:</p>
+<blockquote>
+<p>&#8220;RAJAR’s recent figures were upbeat about listening to the radio on mobile devices. (They only monitor ‘listening via mobile phones’, despite many MP3 players also having FM radios built-in)&#8221;</p>
+</blockquote>
+<p>Competing business models between mobile network operators and broadcasters prevent broadcast receivers from being integrated into mobile phones. At CRC, we work on a project that would allow broadcasters to sponsor and eventually develop their own receivers. The project is called <a href="http://www.openmokast.org/">Openmokast</a>. We published our thoughts and results about this in a paper released as part of last month&#8217;s <a href="http://tech.ebu.ch/webdav/site/tech/shared/techreview/trev_2008-Q4_Openmokast-CRC.pdf">EBU Technical Review</a>.</p>
+<p>We suggest that innovation in mobile digital broadcasting (including digital radio) will happen with the event of open source platforms like Android and Openmoko.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

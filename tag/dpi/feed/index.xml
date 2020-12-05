@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>DPI &#8211; Broadcasting 2.0</title>
+	<atom:link href="/bc20/tag/dpi/feed/" rel="self" type="application/rss+xml" />
+	<link>/bc20/</link>
+	<description>Emerging technologies for one-to-many telecommunications</description>
+	<lastBuildDate>Fri, 15 May 2009 00:28:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<item>
+		<title>Where They Destroy Packets&#8230;</title>
+		<link>/bc20/2009/05/14/where-they-destroy-packets/</link>
+					<comments>/bc20/2009/05/14/where-they-destroy-packets/#comments</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Fri, 15 May 2009 00:25:49 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Legislation]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[DPI]]></category>
+		<category><![CDATA[Internet]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/05/14/where-they-destroy-packets/</guid>
+
+					<description><![CDATA[I never had a good memory for proverbs and quotes. However, this one (in bold below) by &#8220;Heinrich Heine&#8221; stuck in my mind when I heard it some 15 years ago while visiting north Germany (Wikipedia excerpt): Among the thousands of books burned on Berlin&#8217;s Opernplatz in 1933, following the Nazi raid on the Institut [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>I never had a good memory for proverbs and quotes. However, this one (in bold below) by &#8220;<a href="http://en.wikipedia.org/wiki/Heinrich_Heine">Heinrich Heine</a>&#8221; stuck in my mind when I heard it some 15 years ago while visiting north Germany (Wikipedia excerpt):</p>
+<blockquote>
+<p>Among the thousands of books burned on Berlin&#8217;s Opernplatz in 1933, following the Nazi raid on the Institut für Sexualwissenschaft, were works by Heinrich Heine. To commemorate the terrible event, one of the most famous lines of Heine&#8217;s 1821 play Almansor was engraved in the ground at the site: <strong><em>&#8220;Dort, wo man Bücher verbrennt, verbrennt man am Ende auch Menschen.&#8221; (&#8220;Where they burn books, they will ultimately also burn people.&#8221;)</em></strong> In the original text, Heine had been referring to the burning of the Quran during the Spanish Inquisition.</p>
+</blockquote>
+<p>I&#8217;ve been trying to figure out a way to express the same idea but in relation to the Internet and the fact that it is being <a href="http://dpi.priv.gc.ca/">deep packet inspected</a> and throttled and filtered and fire-walled. I&#8217;m not so sure I figured it out yet but I came up with this line:</p>
+<blockquote>
+<p><em><strong>&#8220;Where they destroy packets, they will ultimately also destroy people&#8221;</strong></em></p>
+</blockquote>
+<p>I like it. Any ideas on how to improve it?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bc20/2009/05/14/where-they-destroy-packets/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

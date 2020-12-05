@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>publicdomain &#8211; Broadcasting 2.0</title>
+	<atom:link href="/bc20/tag/publicdomain/feed/" rel="self" type="application/rss+xml" />
+	<link>/bc20/</link>
+	<description>Emerging technologies for one-to-many telecommunications</description>
+	<lastBuildDate>Wed, 08 Jul 2009 20:04:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<item>
+		<title>Royalty-Free Public Domain &#8211; A path towards Ubiquity</title>
+		<link>/bc20/2009/07/08/royalty-free-public-domain-a-path-towards-ubiquity/</link>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Wed, 08 Jul 2009 20:04:01 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Infrastructures]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[MMB]]></category>
+		<category><![CDATA[patents]]></category>
+		<category><![CDATA[publicdomain]]></category>
+		<category><![CDATA[royalties]]></category>
+		<category><![CDATA[royaltyfree]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/07/08/royalty-free-public-domain-a-path-towards-ubiquity/</guid>
+
+					<description><![CDATA[I read this excellent story some time ago in Vanity Fair titled &#8220;An oral history of the Internet&#8220;. I believe that one of the reasons why the Internet is what it is now comes from the fact that the Web is a royalty-free technology. And that does not happen by itself. To produce RF-tech these [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>I read this excellent story some time ago in Vanity Fair titled &#8220;<a href="http://www.vanityfair.com/culture/features/2008/07/internet200807">An oral history of the Internet</a>&#8220;. I believe that one of the reasons why the Internet is what it is now comes from the fact that the Web is a royalty-free technology. And that does not happen by itself. To produce RF-tech these days, one has got to fight for it and give up potential revenue streams. That is what the CERN team did. <strong>Robert Cailliau</strong> says<strong>:</strong></p>
+<blockquote>
+<p><i>&#8220;At one point</i> <span class="sc"><i>cern</i></span> <i>was toying with patenting the World Wide Web. I was talking about that with Tim one day, and he looked at me, and I could see that he wasn’t enthusiastic. He said, Robert, do you want to be rich? I thought, Well, it helps, no? He apparently didn’t care about that. What he cared about was to make sure that the thing would work, that it would just be there for everybody. He convinced me of that, and then I worked for about six months, very hard with the legal service, to make sure that</i> <span class="sc"><i>cern</i></span> <i>put the whole thing in the public domain.&#8221;</i></p>
+</blockquote>
+<p>The least we can say is that the strategy worked. The Web is now ubiquitous.</p>
+<p>Is there a lesson here for creating the mobile broadcast system of tomorrow?</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

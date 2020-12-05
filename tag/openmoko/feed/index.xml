@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Openmoko &#8211; Broadcasting 2.0</title>
+	<atom:link href="/bc20/tag/openmoko/feed/" rel="self" type="application/rss+xml" />
+	<link>/bc20/</link>
+	<description>Emerging technologies for one-to-many telecommunications</description>
+	<lastBuildDate>Wed, 02 Dec 2009 19:11:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<item>
+		<title>My eComm 2009 Talk Now Available on Video</title>
+		<link>/bc20/2009/12/02/video-of-my-ecomm-2009-talk-now-available/</link>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Wed, 02 Dec 2009 18:44:29 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Consumer devices]]></category>
+		<category><![CDATA[Mobility]]></category>
+		<category><![CDATA[CRC]]></category>
+		<category><![CDATA[DAB]]></category>
+		<category><![CDATA[handsets]]></category>
+		<category><![CDATA[MMB]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[mobile phones]]></category>
+		<category><![CDATA[Openmokast]]></category>
+		<category><![CDATA[Openmoko]]></category>
+		<category><![CDATA[radio]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/12/02/video-of-my-ecomm-2009-talk-now-available/</guid>
+
+					<description><![CDATA[I&#8217;m happy that my eComm talk finally got published online, 8 months after the conference. Events sponsors got published much earlier but hey, that&#8217;s fair for a professionally produced clip. I must admit that the AV infrastructure and the team at the event were excellent. My talk was titled: &#8220;Mobile Digital Broadcasting: An Infrastructure for [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;m happy that my <a href="http://ecomm.ec/" title="eCommm website">eComm</a> talk finally got published online, 8 months after the conference. Events sponsors got published much earlier but hey, that&#8217;s fair for a professionally produced clip. I must admit that the AV infrastructure and the team at the event were excellent.</p>
+<p>My talk was titled: <i>&#8220;Mobile Digital Broadcasting: An Infrastructure for One-to-Many Converged Services&#8221;.</i> We took this opportunity to officially release our <a href="http://openmokast.org/">Openmokast</a> open source software framework. I was happy that my live demo worked as expected!</p>
+<p><center><embed src="http://blip.tv/play/1XuBsaEpAg" type="application/x-shockwave-flash" width="480" height="277" allowscriptaccess="always" allowfullscreen="true" /></center></p>
+<p>We had prepared a clip just in case the &#8220;demo effect&#8221; would hit on me on stage. Luckily this was not the case but the clip (which is more detailed than the live demo) can still be seen <a href="http://www.youtube.com/user/crcmmb#p/a/u/0/8IuDTn4-DIg">on our crcmmb Youtube Channel</a> or here below:</p>
+<p><center><br />
+  <object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/8IuDTn4-DIg&amp;hl=en_US&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><embed src="http://www.youtube.com/v/8IuDTn4-DIg&amp;hl=en_US&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295" /></object><br />
+</center></p>
+<p>And here are the slides I used for this presentation:</p>
+<p><center></p>
+<div style="width:425px;text-align:left" id="__ss_1108190">
+    <a style="font:14px Helvetica,Arial,Sans-serif;display:block;margin:12px 0 3px 0;text-decoration:underline;" href="http://www.slideshare.net/fralef/ecomm-presentation" title="eComm Presentation">eComm Presentation</a><object style="margin:0px" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=ecomm2009francoislefebvre-090305162651-phpapp01&amp;stripped_title=ecomm-presentation" /><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><embed src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=ecomm2009francoislefebvre-090305162651-phpapp01&amp;stripped_title=ecomm-presentation" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355" /></object></p>
+<div style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;">
+      View more <a style="text-decoration:underline;" href="http://www.slideshare.net/">documents</a> from <a style="text-decoration:underline;" href="http://www.slideshare.net/fralef">Francois Lefebvre</a>.
+    </div>
+</p></div>
+<p></center></p>
+<p>eComm was also for me a great occasion to meet with <a href="http://openbts.blogspot.com/">David Burges</a> who presented his <a href="http://openbts.sourceforge.net/" title="OpenBTS">OpenBTS project</a> live using the USRP as well. <a href="http://blog.ecomm.ec/2009/11/voip-to-gsm-air-interface.html">His demo</a> looked incredibly like mine except he demonstrated live cell phone communications going through his GSM open source base station. There are lots of commonalities between our projects but essentially, both are about democratizing communications technologies to catalyze innovation.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Radio on Mobile Devices</title>
+		<link>/bc20/2009/02/15/radio-on-mobile-devices/</link>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Sun, 15 Feb 2009 05:55:37 +0000</pubDate>
+				<category><![CDATA[Industry]]></category>
+		<category><![CDATA[Infrastructures]]></category>
+		<category><![CDATA[Mobility]]></category>
+		<category><![CDATA[handsets]]></category>
+		<category><![CDATA[mobile phones]]></category>
+		<category><![CDATA[Openmokast]]></category>
+		<category><![CDATA[Openmoko]]></category>
+		<category><![CDATA[radio]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/02/15/radio-on-mobile-devices/</guid>
+
+					<description><![CDATA[Mobility and radio go hand in hand. James Cridland reports on a current positive trend: &#8220;RAJAR’s recent figures were upbeat about listening to the radio on mobile devices. (They only monitor ‘listening via mobile phones’, despite many MP3 players also having FM radios built-in)&#8221; Competing business models between mobile network operators and broadcasters prevent broadcast [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Mobility and radio go hand in hand. James Cridland <a href="http://james.cridland.net/blog/2009/02/08/radio-on-mobile-devices/">reports</a> on a current positive trend:</p>
+<blockquote>
+<p>&#8220;RAJAR’s recent figures were upbeat about listening to the radio on mobile devices. (They only monitor ‘listening via mobile phones’, despite many MP3 players also having FM radios built-in)&#8221;</p>
+</blockquote>
+<p>Competing business models between mobile network operators and broadcasters prevent broadcast receivers from being integrated into mobile phones. At CRC, we work on a project that would allow broadcasters to sponsor and eventually develop their own receivers. The project is called <a href="http://www.openmokast.org/">Openmokast</a>. We published our thoughts and results about this in a paper released as part of last month&#8217;s <a href="http://tech.ebu.ch/webdav/site/tech/shared/techreview/trev_2008-Q4_Openmokast-CRC.pdf">EBU Technical Review</a>.</p>
+<p>We suggest that innovation in mobile digital broadcasting (including digital radio) will happen with the event of open source platforms like Android and Openmoko.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

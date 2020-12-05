@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mobile &#8211; Broadcasting 2.0</title>
+	<atom:link href="/bc20/tag/mobile/feed/" rel="self" type="application/rss+xml" />
+	<link>/bc20/</link>
+	<description>Emerging technologies for one-to-many telecommunications</description>
+	<lastBuildDate>Thu, 10 Dec 2009 03:28:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<item>
+		<title>Live Traffic Information on GPS Devices in Canada</title>
+		<link>/bc20/2009/12/09/live-traffic-information-on-gps-devices-in-canada/</link>
+					<comments>/bc20/2009/12/09/live-traffic-information-on-gps-devices-in-canada/#comments</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Wed, 09 Dec 2009 22:12:59 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Consumer devices]]></category>
+		<category><![CDATA[Infrastructures]]></category>
+		<category><![CDATA[Mobility]]></category>
+		<category><![CDATA[public broadcasting]]></category>
+		<category><![CDATA[broadcasting]]></category>
+		<category><![CDATA[fm]]></category>
+		<category><![CDATA[Garmin]]></category>
+		<category><![CDATA[GPS]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[navigation]]></category>
+		<category><![CDATA[rds]]></category>
+		<category><![CDATA[rds-tmc]]></category>
+		<category><![CDATA[traffic]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/12/09/live-traffic-information-on-gps-devices-in-canada/</guid>
+
+					<description><![CDATA[In my recent reflexions about the new potential for hybrid radio based on FM I identified RDS-TMC as an incentive to maintain and even expand the FM (RDS) infrastructure in Canada. While speaking about that at a meeting last week I learned that Corus Entertainment was deploying RDS-TMC traffic for Garmin devices in major cities [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>In my recent reflexions about the new potential for <a href="http://www.slideshare.net/fralef/hybrid-fm-internet-2009-v3">hybrid radio</a> based on FM I identified RDS-TMC as an incentive to maintain and even expand the FM (RDS) infrastructure in Canada. While speaking about that at a meeting last week I learned that <a href="http://www.corusent.com/home/default.aspx">Corus Entertainment</a> was deploying RDS-TMC traffic for Garmin devices in major cities in Canada. I&#8217;m not sure how long it has been there but I think it is quite new. And now that I&#8217;m aware of that, I see traffic enabled Garmin devices advertised everywhere&#8230; and prices are very reasonable.</p>
+<p>So last week I ordered a Garmin model 265WT from Tigerdirect.ca (170$). The &#8220;T&#8221; at the end of the model number indicates that the FM RDS-TMC is included in the box. With such package, traffic information seems to be included for free for the whole life of the device. I&#8217;m not quite clear about that but for some reasons, Garmin also sells lifetime traffic information for 50$ <a href="http://www8.garmin.com/traffic/fm/index.html">on their website</a>. Maybe some devices have to be activated before traffic information works?</p>
+<p>Anyways. I received the device yesterday and was eager to try it. That&#8217;s what I did on my way home last night. It was very simple to install. In fact, nothing special has to be done. The lighter power cord must be plugged into the device and the car (the FM RDS receiver is part of that cord) and that&#8217;s it. When I launched the device, it took just a few seconds before I could see a little &#8220;traffic icon&#8221; on the maps.</p>
+<p>Pressing on that icon revealed two types of traffic information. I took a picture (shown below) of the traffic situation last night at around 7pm in Ottawa. As we can see, there was heavy traffic on the main highway in Ottawa&#8230; and that was no surprise to me&#8230; it was perfect timing for my experiment: hockey night! And every time its the same thing: the highway gets jammed at the &#8220;Scotiabank Place&#8221;. So that&#8217;s the red segment on the map here.</p>
+<p style="text-align: center;"><img src="http://www.broadcasting20.org/wp-content/uploads/2009/12/IMG_3197.JPG-1.0-RGB-1-layer-3888x2592-%E2%80%93-GIMP.png" width="383" height="231" alt="IMG_3197.JPG-1.0 (RGB, 1 layer) 3888x2592 – GIMP.png" /></p>
+<p>The other traffic display shows a list of the various problem zones. This is shown on the second photo I took:</p>
+<div style="text-align: center;">
+  <img src="http://www.broadcasting20.org/wp-content/uploads/2009/12/IMG_3199.JPG.png" width="382" height="241" alt="IMG_3199.JPG.png" />
+</div>
+<p>So very positive experience for me. I&#8217;m impressed. It works well and is very easy to use. The next step will be to see how real-time navigation and re-routing works considering the traffic. In the meantime, I guess canadians will want a new Garmin for Christmas because they certainly understand that traffic is a major enhancement on a GPS device.</p>
+<p>If you wonder where exactly the service is available, have a look at <a href="http://www.navteq.com/rdstraffic/">this page on the Navteq website</a>. A quick scan over the list shows following regions: <a href="http://www.navteq.com/rdstraffic/index_439.htm">Hamilton-Burlington</a>, <a href="http://www.navteq.com/rdstraffic/index_249.htm">Montreal-Laval</a>, <a href="http://www.navteq.com/rdstraffic/index_440.htm">Oshawa-Whitby-Clarington</a>, <a href="http://www.navteq.com/rdstraffic/index_441.htm">Ottawa-Gatineau</a>, <a href="http://www.navteq.com/rdstraffic/index_442.htm">St. Catharines-Niagara Falls-Welland</a>, <a href="http://www.navteq.com/rdstraffic/index_281.htm">Toronto-Mississauga</a> and <a href="http://www.navteq.com/rdstraffic/index_285.htm">Vancouver-Surrey-Burnaby</a>.</p>
+<p><font color="#FF0F10">! UPDATE, WARNING: I was told that the service has not been officially launched yet. I guess that this means it may be unstable or could even be stopped anytime. Please consider this if you think of buying yourself a new Garmin for Christmas.</font></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bc20/2009/12/09/live-traffic-information-on-gps-devices-in-canada/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>My eComm 2009 Talk Now Available on Video</title>
+		<link>/bc20/2009/12/02/video-of-my-ecomm-2009-talk-now-available/</link>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Wed, 02 Dec 2009 18:44:29 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Consumer devices]]></category>
+		<category><![CDATA[Mobility]]></category>
+		<category><![CDATA[CRC]]></category>
+		<category><![CDATA[DAB]]></category>
+		<category><![CDATA[handsets]]></category>
+		<category><![CDATA[MMB]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[mobile phones]]></category>
+		<category><![CDATA[Openmokast]]></category>
+		<category><![CDATA[Openmoko]]></category>
+		<category><![CDATA[radio]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/12/02/video-of-my-ecomm-2009-talk-now-available/</guid>
+
+					<description><![CDATA[I&#8217;m happy that my eComm talk finally got published online, 8 months after the conference. Events sponsors got published much earlier but hey, that&#8217;s fair for a professionally produced clip. I must admit that the AV infrastructure and the team at the event were excellent. My talk was titled: &#8220;Mobile Digital Broadcasting: An Infrastructure for [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;m happy that my <a href="http://ecomm.ec/" title="eCommm website">eComm</a> talk finally got published online, 8 months after the conference. Events sponsors got published much earlier but hey, that&#8217;s fair for a professionally produced clip. I must admit that the AV infrastructure and the team at the event were excellent.</p>
+<p>My talk was titled: <i>&#8220;Mobile Digital Broadcasting: An Infrastructure for One-to-Many Converged Services&#8221;.</i> We took this opportunity to officially release our <a href="http://openmokast.org/">Openmokast</a> open source software framework. I was happy that my live demo worked as expected!</p>
+<p><center><embed src="http://blip.tv/play/1XuBsaEpAg" type="application/x-shockwave-flash" width="480" height="277" allowscriptaccess="always" allowfullscreen="true" /></center></p>
+<p>We had prepared a clip just in case the &#8220;demo effect&#8221; would hit on me on stage. Luckily this was not the case but the clip (which is more detailed than the live demo) can still be seen <a href="http://www.youtube.com/user/crcmmb#p/a/u/0/8IuDTn4-DIg">on our crcmmb Youtube Channel</a> or here below:</p>
+<p><center><br />
+  <object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/8IuDTn4-DIg&amp;hl=en_US&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><embed src="http://www.youtube.com/v/8IuDTn4-DIg&amp;hl=en_US&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295" /></object><br />
+</center></p>
+<p>And here are the slides I used for this presentation:</p>
+<p><center></p>
+<div style="width:425px;text-align:left" id="__ss_1108190">
+    <a style="font:14px Helvetica,Arial,Sans-serif;display:block;margin:12px 0 3px 0;text-decoration:underline;" href="http://www.slideshare.net/fralef/ecomm-presentation" title="eComm Presentation">eComm Presentation</a><object style="margin:0px" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=ecomm2009francoislefebvre-090305162651-phpapp01&amp;stripped_title=ecomm-presentation" /><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><embed src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=ecomm2009francoislefebvre-090305162651-phpapp01&amp;stripped_title=ecomm-presentation" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355" /></object></p>
+<div style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;">
+      View more <a style="text-decoration:underline;" href="http://www.slideshare.net/">documents</a> from <a style="text-decoration:underline;" href="http://www.slideshare.net/fralef">Francois Lefebvre</a>.
+    </div>
+</p></div>
+<p></center></p>
+<p>eComm was also for me a great occasion to meet with <a href="http://openbts.blogspot.com/">David Burges</a> who presented his <a href="http://openbts.sourceforge.net/" title="OpenBTS">OpenBTS project</a> live using the USRP as well. <a href="http://blog.ecomm.ec/2009/11/voip-to-gsm-air-interface.html">His demo</a> looked incredibly like mine except he demonstrated live cell phone communications going through his GSM open source base station. There are lots of commonalities between our projects but essentially, both are about democratizing communications technologies to catalyze innovation.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Challenges for GPRS and 3G Radio</title>
+		<link>/bc20/2009/07/24/challenges-for-gprs-and-3g-radio/</link>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Fri, 24 Jul 2009 15:45:31 +0000</pubDate>
+				<category><![CDATA[Infrastructures]]></category>
+		<category><![CDATA[Mobility]]></category>
+		<category><![CDATA[Networked media]]></category>
+		<category><![CDATA[public broadcasting]]></category>
+		<category><![CDATA[3G]]></category>
+		<category><![CDATA[broadcasting 2.0]]></category>
+		<category><![CDATA[Internet streaming]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[mobile phones]]></category>
+		<category><![CDATA[radio]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/07/24/challenges-for-gprs-and-3g-radio/</guid>
+
+					<description><![CDATA[There is a nice post on the Public Radio Player (PRP) blog about some challenges for Internet radio when distributed over mobile wireless networks and some strategies used in the PRP. &#8220;A dropped stream is the nemesis of any regular Public Radio Tuner user. Nothing is worse than being caught up in a great public [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>There is a nice <a href="http://www.publicradioplayer.org/?p=544">post</a> on the <a href="http://www.publicradioplayer.org/">Public Radio Player (PRP) blog</a> about some challenges for Internet radio when distributed over mobile wireless networks and some strategies used in the PRP.</p>
+<blockquote>
+<p>&#8220;A dropped stream is the nemesis of any regular Public Radio Tuner user. Nothing is worse than being caught up in a great public radio program and have it suddenly cut out&#8230;.&#8221;</p>
+</blockquote>
+<p>Some challenges can be expected:</p>
+<ul>
+<li>loss of signal while roaming from cell to cell. Networks are optimized for voice calls but not for data yet.</li>
+<li>minimal bitrate like 32 kbps is desirable but connection is still not guaranteed and sound quality is no great</li>
+<li>buffers have to be implemented in receiver to mitigate signal loss.</li>
+</ul>
+<p>Results of a <a href="http://www.pcworld.com/article/167391/a_day_in_the_life_of_3g.html">survey made by PC World</a> suggest that 3G coverage may not be adequate for the delivery of sustained bitrates in major cities in USA. Like <a href="http://www.pcworld.com/zoom?id=167391&amp;page=1&amp;zoomIdx=1">this table shows</a>, networks speeds can be impressive but their reliability vary greatly so that live radio transmissions may be hard to achieve.</p>
+<p>There is certainly a lot of room for experimentation here in this new area but I tend to believe that it could take a while before we see 3G replace true &#8220;physical layer&#8221; broadcast networks for live transmissions.</p>
+<p></p>
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Broadcasting the Twittersphere</title>
+		<link>/bc20/2009/07/08/twitter-bandwidth/</link>
+					<comments>/bc20/2009/07/08/twitter-bandwidth/#comments</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Wed, 08 Jul 2009 05:14:19 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Infrastructures]]></category>
+		<category><![CDATA[User Generated Media]]></category>
+		<category><![CDATA[broadcasting 2.0]]></category>
+		<category><![CDATA[DAB]]></category>
+		<category><![CDATA[datacasting]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[radio]]></category>
+		<category><![CDATA[twitter]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/07/08/twitter-bandwidth/</guid>
+
+					<description><![CDATA[I think that Twitter and micro-blogging in general have properties that could be exploited along with broadcasting services. I’ll write my thoughts about this later on. As a first step in this reflexion, I’d like to estimate the total bandwidth of Twitter, that is, how many kilobits per second are being Tweeted on average. I [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>I think that Twitter and micro-blogging in general have properties that could be exploited along with broadcasting services. I’ll write my thoughts about this later on.</p>
+<p>As a first step in this reflexion, I’d like to estimate the total bandwidth of Twitter, that is, how many kilobits per second are being Tweeted on average.</p>
+<p>I made a similar exercise some time ago with regards to the blogosphere in a post titled “<a href="http://www.broadcasting20.org/2006/03/13/broadcasting-the-blogosphere-30-million-voices-for-the-price-of-one-2/">Broadcasting the Blogosphere: 30 million voices for the price of one!</a>”.</p>
+<p>So I found some twitter services that provide relevant data. For example, <a href="http://www.tweespeed.com/speeds.jsp?period=hour&amp;duration=168">TweeSpeed</a> is an instant speed meter that shows the current number of tweets per minute. A graph showing the speed per hour during the last week is also available. A quick look at that graph now suggests that 700.000 tweets per hour would be a reasonable approximation for last week’s average, excluding the peek caused by the “Michael Jackson Effect”. <a href="http://www.twitpocalypse.com/">Twitpocalypse</a> currently reports 221 tweets per second which results in a similar value (221*60*60 =795.600 tweets per hour ). On another front, the recent HubSpot <a href="http://blog.hubspot.com/Portals/249/sotwitter09.pdf">State of the Twittershpere</a> report provides similar amounts on a daily basis instead of per hour. I suspect that this is a mistake. I’ll be pessimistic and take the largest number. The Hubspot report also informs on the distribution of actual tweet length. I’ll average the tweet length to 110 characters per tweet.</p>
+<p>So the math goes like this:</p>
+<p style="text-align: center;">110ch * 1byte/ch * 700k/hour = 77 Mbytes/hour</p>
+<p style="text-align: center;">or</p>
+<p style="text-align: center;"><font size="5"><span style="font-size: 18px;">TOTAL TWITTER BANDWIDTH = 170 kbps !</span></font></p>
+<p style="text-align: center;">
+<div style="text-align: left;">
+  Again, very surprising results! The current Twitter bandwidth is barely higher than a typical Internet or DAB radio station. The whole Twittershpere would only require to sacrifice a couple of off-air DAB stations in every market. I feel that very innovative datacasting/social applications could be built based on this!
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bc20/2009/07/08/twitter-bandwidth/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>In-car Wi-Fi Internet Radio</title>
+		<link>/bc20/2009/06/24/in-car-wi-fi-internet-radio/</link>
+					<comments>/bc20/2009/06/24/in-car-wi-fi-internet-radio/#comments</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Wed, 24 Jun 2009 19:19:36 +0000</pubDate>
+				<category><![CDATA[Consumer devices]]></category>
+		<category><![CDATA[Infrastructures]]></category>
+		<category><![CDATA[Mobility]]></category>
+		<category><![CDATA[Networked media]]></category>
+		<category><![CDATA[3G]]></category>
+		<category><![CDATA[Channels]]></category>
+		<category><![CDATA[in-car]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Internet streaming]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[radio]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/06/24/in-car-wi-fi-internet-radio/</guid>
+
+					<description><![CDATA[As Internet radio appliances are becoming available, there is still the issue that they can&#8217;t be used in your car. This could change thanks to so-called &#8220;in-car WiFi routers&#8221; which are designed to provide Internet access through 3G mobile telephony networks. AutoNet Mobile offers such device and service combination: we create a Wi-Fi hot spot [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>As Internet radio appliances are becoming available, there is still the issue that they can&#8217;t be used in your car.</p>
+<p>This could change thanks to so-called &#8220;in-car WiFi routers&#8221; which are designed to provide Internet access through 3G mobile telephony networks.</p>
+<p><a href="http://www.autonetmobile.com/">AutoNet Mobile</a> offers such device and service combination:</p>
+<blockquote>
+<p>we create a Wi-Fi hot spot that allows everyone in the car to connect multiple devices to the internet, in and around the car! it’s the next step in in-car entertainment and productvity. we make internet in your car easier than ever because we provide both the in-car router and the monthly service. our affordable monthly service plans start at only $29 per month.</p>
+</blockquote>
+<p>This still represent an expensive proposition for radio though. One hour daily consumption of good quality Internet radio content could easily reach the 29$ 1Gb limit.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bc20/2009/06/24/in-car-wi-fi-internet-radio/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

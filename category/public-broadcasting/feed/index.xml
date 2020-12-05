@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>public broadcasting &#8211; Broadcasting 2.0</title>
+	<atom:link href="/bc20/category/public-broadcasting/feed/" rel="self" type="application/rss+xml" />
+	<link>/bc20/</link>
+	<description>Emerging technologies for one-to-many telecommunications</description>
+	<lastBuildDate>Thu, 10 Dec 2009 03:28:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<item>
+		<title>Live Traffic Information on GPS Devices in Canada</title>
+		<link>/bc20/2009/12/09/live-traffic-information-on-gps-devices-in-canada/</link>
+					<comments>/bc20/2009/12/09/live-traffic-information-on-gps-devices-in-canada/#comments</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Wed, 09 Dec 2009 22:12:59 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Consumer devices]]></category>
+		<category><![CDATA[Infrastructures]]></category>
+		<category><![CDATA[Mobility]]></category>
+		<category><![CDATA[public broadcasting]]></category>
+		<category><![CDATA[broadcasting]]></category>
+		<category><![CDATA[fm]]></category>
+		<category><![CDATA[Garmin]]></category>
+		<category><![CDATA[GPS]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[navigation]]></category>
+		<category><![CDATA[rds]]></category>
+		<category><![CDATA[rds-tmc]]></category>
+		<category><![CDATA[traffic]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/12/09/live-traffic-information-on-gps-devices-in-canada/</guid>
+
+					<description><![CDATA[In my recent reflexions about the new potential for hybrid radio based on FM I identified RDS-TMC as an incentive to maintain and even expand the FM (RDS) infrastructure in Canada. While speaking about that at a meeting last week I learned that Corus Entertainment was deploying RDS-TMC traffic for Garmin devices in major cities [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>In my recent reflexions about the new potential for <a href="http://www.slideshare.net/fralef/hybrid-fm-internet-2009-v3">hybrid radio</a> based on FM I identified RDS-TMC as an incentive to maintain and even expand the FM (RDS) infrastructure in Canada. While speaking about that at a meeting last week I learned that <a href="http://www.corusent.com/home/default.aspx">Corus Entertainment</a> was deploying RDS-TMC traffic for Garmin devices in major cities in Canada. I&#8217;m not sure how long it has been there but I think it is quite new. And now that I&#8217;m aware of that, I see traffic enabled Garmin devices advertised everywhere&#8230; and prices are very reasonable.</p>
+<p>So last week I ordered a Garmin model 265WT from Tigerdirect.ca (170$). The &#8220;T&#8221; at the end of the model number indicates that the FM RDS-TMC is included in the box. With such package, traffic information seems to be included for free for the whole life of the device. I&#8217;m not quite clear about that but for some reasons, Garmin also sells lifetime traffic information for 50$ <a href="http://www8.garmin.com/traffic/fm/index.html">on their website</a>. Maybe some devices have to be activated before traffic information works?</p>
+<p>Anyways. I received the device yesterday and was eager to try it. That&#8217;s what I did on my way home last night. It was very simple to install. In fact, nothing special has to be done. The lighter power cord must be plugged into the device and the car (the FM RDS receiver is part of that cord) and that&#8217;s it. When I launched the device, it took just a few seconds before I could see a little &#8220;traffic icon&#8221; on the maps.</p>
+<p>Pressing on that icon revealed two types of traffic information. I took a picture (shown below) of the traffic situation last night at around 7pm in Ottawa. As we can see, there was heavy traffic on the main highway in Ottawa&#8230; and that was no surprise to me&#8230; it was perfect timing for my experiment: hockey night! And every time its the same thing: the highway gets jammed at the &#8220;Scotiabank Place&#8221;. So that&#8217;s the red segment on the map here.</p>
+<p style="text-align: center;"><img src="http://www.broadcasting20.org/wp-content/uploads/2009/12/IMG_3197.JPG-1.0-RGB-1-layer-3888x2592-%E2%80%93-GIMP.png" width="383" height="231" alt="IMG_3197.JPG-1.0 (RGB, 1 layer) 3888x2592 – GIMP.png" /></p>
+<p>The other traffic display shows a list of the various problem zones. This is shown on the second photo I took:</p>
+<div style="text-align: center;">
+  <img src="http://www.broadcasting20.org/wp-content/uploads/2009/12/IMG_3199.JPG.png" width="382" height="241" alt="IMG_3199.JPG.png" />
+</div>
+<p>So very positive experience for me. I&#8217;m impressed. It works well and is very easy to use. The next step will be to see how real-time navigation and re-routing works considering the traffic. In the meantime, I guess canadians will want a new Garmin for Christmas because they certainly understand that traffic is a major enhancement on a GPS device.</p>
+<p>If you wonder where exactly the service is available, have a look at <a href="http://www.navteq.com/rdstraffic/">this page on the Navteq website</a>. A quick scan over the list shows following regions: <a href="http://www.navteq.com/rdstraffic/index_439.htm">Hamilton-Burlington</a>, <a href="http://www.navteq.com/rdstraffic/index_249.htm">Montreal-Laval</a>, <a href="http://www.navteq.com/rdstraffic/index_440.htm">Oshawa-Whitby-Clarington</a>, <a href="http://www.navteq.com/rdstraffic/index_441.htm">Ottawa-Gatineau</a>, <a href="http://www.navteq.com/rdstraffic/index_442.htm">St. Catharines-Niagara Falls-Welland</a>, <a href="http://www.navteq.com/rdstraffic/index_281.htm">Toronto-Mississauga</a> and <a href="http://www.navteq.com/rdstraffic/index_285.htm">Vancouver-Surrey-Burnaby</a>.</p>
+<p><font color="#FF0F10">! UPDATE, WARNING: I was told that the service has not been officially launched yet. I guess that this means it may be unstable or could even be stopped anytime. Please consider this if you think of buying yourself a new Garmin for Christmas.</font></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bc20/2009/12/09/live-traffic-information-on-gps-devices-in-canada/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Livio NPR Radio</title>
+		<link>/bc20/2009/11/26/livio-npr-radio/</link>
+					<comments>/bc20/2009/11/26/livio-npr-radio/#comments</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Thu, 26 Nov 2009 14:14:00 +0000</pubDate>
+				<category><![CDATA[Consumer devices]]></category>
+		<category><![CDATA[Industry]]></category>
+		<category><![CDATA[Networked media]]></category>
+		<category><![CDATA[public broadcasting]]></category>
+		<category><![CDATA[Services]]></category>
+		<category><![CDATA[appliance]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Internet streaming]]></category>
+		<category><![CDATA[livio]]></category>
+		<category><![CDATA[npr]]></category>
+		<category><![CDATA[radio]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/11/26/livio-npr-radio/</guid>
+
+					<description><![CDATA[Livio announces its NPR branded Internet Radio Appliance. This device will offer a specialized menu to easily access NPR&#8217;s 800 radio stations. Of course, all other Internet radio stations can be accessed as well. Are such &#8220;specialized&#8221; devices the future? We&#8217;ve seen the WikiReader recently which only does one thing: portable unconnected access to Wikipedia. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img src="http://www.broadcasting20.org/wp-content/uploads/2009/11/The-NPR-Radio-by-Livio_-NPR-Shop.png" width="246" height="146" alt="The NPR Radio by Livio_ NPR Shop.png" style="float:right;" /><a href="http://www.livioradio.com/" title="Livio">Livio</a> announces its <a href="http://www.livioradio.com/npr-radio/" title="NPR Radio">NPR branded Internet Radio Appliance</a>. This device will offer a specialized menu to easily access NPR&#8217;s 800 radio stations. Of course, all other Internet radio stations can be accessed as well.</p>
+<p>Are such &#8220;specialized&#8221; devices the future? We&#8217;ve seen the <a href="http://www.thewikireader.com/" title="WikiReader">WikiReader</a> recently which only does one thing: portable unconnected access to Wikipedia.</p>
+<p>I don&#8217;t know but it makes great sense to me. I would love to see a CBC / Radio-Canada device like this. CBC/RC have great Internet offerings but they tend to &#8220;capture&#8221; the audience into their branded web portals. Because of this, many CBC/RC Internet radio streams are not accessible through Internet appliances other than full fledged PC&#8217;s. A branded device seems to be a good compromise to escape the PC prison.</p>
+<p>Another very promising effect of this device is that it will help fund NPR&#8217;s programming since they will collect a portion of the proceeds. What an original way to fund public broadcasters!</p>
+<p>&nbsp;&nbsp;&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bc20/2009/11/26/livio-npr-radio/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Challenges for GPRS and 3G Radio</title>
+		<link>/bc20/2009/07/24/challenges-for-gprs-and-3g-radio/</link>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Fri, 24 Jul 2009 15:45:31 +0000</pubDate>
+				<category><![CDATA[Infrastructures]]></category>
+		<category><![CDATA[Mobility]]></category>
+		<category><![CDATA[Networked media]]></category>
+		<category><![CDATA[public broadcasting]]></category>
+		<category><![CDATA[3G]]></category>
+		<category><![CDATA[broadcasting 2.0]]></category>
+		<category><![CDATA[Internet streaming]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[mobile phones]]></category>
+		<category><![CDATA[radio]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/07/24/challenges-for-gprs-and-3g-radio/</guid>
+
+					<description><![CDATA[There is a nice post on the Public Radio Player (PRP) blog about some challenges for Internet radio when distributed over mobile wireless networks and some strategies used in the PRP. &#8220;A dropped stream is the nemesis of any regular Public Radio Tuner user. Nothing is worse than being caught up in a great public [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>There is a nice <a href="http://www.publicradioplayer.org/?p=544">post</a> on the <a href="http://www.publicradioplayer.org/">Public Radio Player (PRP) blog</a> about some challenges for Internet radio when distributed over mobile wireless networks and some strategies used in the PRP.</p>
+<blockquote>
+<p>&#8220;A dropped stream is the nemesis of any regular Public Radio Tuner user. Nothing is worse than being caught up in a great public radio program and have it suddenly cut out&#8230;.&#8221;</p>
+</blockquote>
+<p>Some challenges can be expected:</p>
+<ul>
+<li>loss of signal while roaming from cell to cell. Networks are optimized for voice calls but not for data yet.</li>
+<li>minimal bitrate like 32 kbps is desirable but connection is still not guaranteed and sound quality is no great</li>
+<li>buffers have to be implemented in receiver to mitigate signal loss.</li>
+</ul>
+<p>Results of a <a href="http://www.pcworld.com/article/167391/a_day_in_the_life_of_3g.html">survey made by PC World</a> suggest that 3G coverage may not be adequate for the delivery of sustained bitrates in major cities in USA. Like <a href="http://www.pcworld.com/zoom?id=167391&amp;page=1&amp;zoomIdx=1">this table shows</a>, networks speeds can be impressive but their reliability vary greatly so that live radio transmissions may be hard to achieve.</p>
+<p>There is certainly a lot of room for experimentation here in this new area but I tend to believe that it could take a while before we see 3G replace true &#8220;physical layer&#8221; broadcast networks for live transmissions.</p>
+<p></p>
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Google Ends Radio AdSense</title>
+		<link>/bc20/2009/02/14/google-ends-radio-adsense/</link>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Sun, 15 Feb 2009 04:40:09 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Infrastructures]]></category>
+		<category><![CDATA[public broadcasting]]></category>
+		<category><![CDATA[advertising]]></category>
+		<category><![CDATA[broadcasting 2.0]]></category>
+		<category><![CDATA[radio]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/02/14/google-ends-radio-adsense/</guid>
+
+					<description><![CDATA[Last summer at Broadcast Asia, I discovered that Google planned to extend its AdSense Internet advertising program to Radio. I ran into a very modest Google booth that displayed their new radio automation software acquired from dMarc, a market leader I was told. When I saw that, I thought it was an obvious business for [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Last summer at Broadcast Asia, I discovered that Google planned to extend its AdSense Internet advertising program to Radio. I ran into a very modest Google booth that displayed their new radio automation software acquired from dMarc, a market leader I was told. When I saw that, I thought it was an obvious business for Google.</p>
+<p>Well, <a href="http://www.nytimes.com/2009/02/13/technology/companies/13google.html?_r=2&amp;partner=rss&amp;emc=rss">it looks like</a> this project was killed. May I suggest a strategy: Google, release your automation software to the open source community like you did with Android. This could attract new developers that support your AdSense program for free&#8230; and some competing options, of course!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>iPlayer Reach</title>
+		<link>/bc20/2009/02/02/iplayer-reach/</link>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Mon, 02 Feb 2009 17:20:37 +0000</pubDate>
+				<category><![CDATA[Infrastructures]]></category>
+		<category><![CDATA[Networked media]]></category>
+		<category><![CDATA[public broadcasting]]></category>
+		<category><![CDATA[Services]]></category>
+		<category><![CDATA[BBC]]></category>
+		<category><![CDATA[broadcasting 2.0]]></category>
+		<category><![CDATA[Internet TV]]></category>
+		<category><![CDATA[iPlayer]]></category>
+		<category><![CDATA[new media]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/02/02/iplayer-reach/</guid>
+
+					<description><![CDATA[Some important numbers about the use of iPlayer can be seen here in this TIMESONLINE story: Before that, they appear on iPlayer, the free service which notched up 41m programme requests in December and 271m during the whole of 2008.]]></description>
+										<content:encoded><![CDATA[<p>Some important numbers about the use of iPlayer can be seen here in this TIMESONLINE <a href="http://business.timesonline.co.uk/tol/business/industry_sectors/media/article5627414.ece" title="TIMES ONLINE">story</a>:</p>
+<blockquote>
+<p>Before that, they appear on iPlayer, the free service which notched up 41m programme requests in December and 271m during the whole of 2008.</p>
+</blockquote>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Journanalists</title>
+		<link>/bc20/2006/05/12/journanalists/</link>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Fri, 12 May 2006 15:43:15 +0000</pubDate>
+				<category><![CDATA[public broadcasting]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2006/05/12/journanalists/</guid>
+
+					<description><![CDATA[No, there&#8217;s no typo in the title. Bill Buzenberg of Minnesota Public Radio demonstrated this morning at &#8220;Beyond Broadcast 2006&#8221;, very interesting new &#8220;broadcast-conversations&#8221; applications based on the Web involving the audience. In many of the scenarios presented, journalists become more or less &#8220;analysts&#8221; of the massive data they get after submitting story proposals. They [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>No, there&#8217;s no typo in the title.</p>
+<p>Bill Buzenberg of <a href="http://www.broadcasting20.org/wp-admin/Bill%20busenberg">Minnesota Public Radio</a> demonstrated this morning at &#8220;Beyond Broadcast 2006&#8221;, very interesting new &#8220;broadcast-conversations&#8221;  applications based on the Web involving the audience.</p>
+<p>In many of the scenarios presented, journalists become more or less &#8220;analysts&#8221; of the massive data they get after submitting story proposals. They first do the voxpop before going to the specialists.</p>
+<p>So that&#8217;s where it comes from. I&#8217; m proposing a term for this new function: &#8220;Jounanalists&#8221;, resulting of course from the combination of journalist and analyst.</p>
+<p>Technorati Tags: beyondbroadcast, journanalists, journanalism</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Beyond Broadcast 2006</title>
+		<link>/bc20/2006/05/12/beyond-broadcast-2006/</link>
+					<comments>/bc20/2006/05/12/beyond-broadcast-2006/#comments</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Fri, 12 May 2006 12:54:18 +0000</pubDate>
+				<category><![CDATA[Industry]]></category>
+		<category><![CDATA[Infrastructures]]></category>
+		<category><![CDATA[Legislation]]></category>
+		<category><![CDATA[public broadcasting]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2006/05/12/beyond-broadcast-2006/</guid>
+
+					<description><![CDATA[So I&#8217;m sitting right there, waiting for the event to begin. Beyond Broadcast 2006 is loaded with great, experienced speakers with all possible backgrounds: braodcasters, journalists, technologists and so on. The theme is important: We will explore the thesis that traditional public media — public broadcasting, cable access television, etc — face a unique opportunity [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>So I&#8217;m sitting right there, waiting for the event to begin.</p>
+<p><a href="http://www.beyondbroadcast.net/blog/">Beyond Broadcast 2006</a> is loaded with great, experienced speakers with all possible backgrounds: braodcasters, journalists, technologists and so on. The theme is important:</p>
+<p style="margin-left: 40px">We will explore the thesis that traditional public media — public broadcasting, cable access television, etc — face a unique opportunity to embrace new participatory web-based media models — podcasting, video blogs, social software, etc — and create a stronger and more vital public service.</p>
+<p>And if I&#8217; m lucky, my <a href="http://www.beyondbroadcast.net/wiki/index.php?title=Tech_Demos">MMB demo</a> will work fine this afternoon! I&#8217;ll try to report later.</p>
+<p>Technorati Tags:  beyondbroadcast, broadcasting+2.0, public+media, public+broadcasting</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bc20/2006/05/12/beyond-broadcast-2006/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>BBC 2.0</title>
+		<link>/bc20/2006/04/26/bbc-20/</link>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Thu, 27 Apr 2006 03:31:44 +0000</pubDate>
+				<category><![CDATA[public broadcasting]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2006/04/26/bbc-20/</guid>
+
+					<description><![CDATA[Media Guardian reports that&#160;Ashley Highfield, BBC director of new media and technology, announced&#160;a radical rebuild &#160;of their web presence: &#160; Mr Highfield&#8217;s presentation, Beyond Broadcast, outlined a three-pronged approach to refocus all future BBC digital output and services around three concepts &#8211; &#8220;share&#8221;, &#8220;find&#8221; and &#8220;play&#8221;. He said the philosophy of &#8220;share&#8221; would be at [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>Media Guardian <a href="http://media.guardian.co.uk/site/story/0,,1760999,00.html">reports</a> that&nbsp;Ashley Highfield, BBC director of new media and technology, announced&nbsp;a radical rebuild &nbsp;of their web presence:</div>
+<div>&nbsp;</div>
+<div>
+<blockquote dir=ltr style="MARGIN-RIGHT: 0px">
+<p>Mr Highfield&#8217;s presentation, Beyond Broadcast, outlined a three-pronged   approach to refocus all future BBC digital output and services around three   concepts &#8211; &#8220;share&#8221;, &#8220;find&#8221; and &#8220;play&#8221;.</p>
+<p>He said the philosophy of &#8220;share&#8221; would be at the heart of what he dubbed   bbc.co.uk 2.0.</p>
+<p>Mr Highfield said the share concept would allow users to &#8220;create your own   space and to build bbc.co.uk around you&#8221;, encouraging them to launch there own   blogs and post home videos on the site.</p>
+<p>The BBC is also running a competition to revamp the bbc.co.uk 2.0 website,   asking the public to redesign the homepage to &#8220;exploit the fuctionality and   usability of services such as Flickr, YouTube, Technorati and Wikipedia&#8221;.</p>
+<p>&nbsp;</p>
+</blockquote>
+</div>
+<div>Technorati Tags : <a href="http://technorati.com/tag/BBC" target=_blank rel=tag>BBC</a>, <a href="http://technorati.com/tag/web+2.0" target=_blank rel=tag>web+2.0</a>, <a href="http://technorati.com/tag/broadcasting+2.0" target=_blank rel=tag>broadcasting+2.0</a><!-- End Technorati Tags --></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Broadcasting the Blogosphere: 30 million voices for the price of one!</title>
+		<link>/bc20/2006/03/13/broadcasting-the-blogosphere-30-million-voices-for-the-price-of-one-2/</link>
+					<comments>/bc20/2006/03/13/broadcasting-the-blogosphere-30-million-voices-for-the-price-of-one-2/#comments</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Tue, 14 Mar 2006 03:04:35 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[public broadcasting]]></category>
+		<category><![CDATA[Services]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2006/03/13/broadcasting-the-blogosphere-30-million-voices-for-the-price-of-one-2/</guid>
+
+					<description><![CDATA[What is the size of the whole blogosphere? What capacity would be required to transmit it over a broadcast channel? Let&#8217;s see&#8230; &#160; Blogging is still exploding. In his &#8220;state of the blogosphere&#8221; speech last week at ETECH, David Sifry, CEO of the blog indexing web service Technorati, presented the latest statistics: 30.000.000 blogs worldwide [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>What is the size of the whole blogosphere? What capacity would be required to transmit it over a broadcast channel? Let&#8217;s see&#8230;</div>
+<div>&nbsp;</div>
+<div>Blogging is still exploding. In his &#8220;state of the blogosphere&#8221; speech last week at <a href="http://conferences.oreillynet.com/etech/">ETECH</a>, <a href="http://www.sifry.com/alerts/">David Sifry</a>, CEO of the blog indexing web service <a href="http://www.technorati.com/">Technorati</a>, presented the latest statistics:</div>
+<ul>
+<li>30.000.000 blogs worldwide</li>
+<li>100.000 new blogs are created daily</li>
+<li>the blogosphere is 60 times larger than 3 years ago</li>
+<li>there are 1.5 million legitimate posts(by humans for humans) per day</li>
+</ul>
+<p>Let&#8217;s assume that each post contains 500 characters,&nbsp;no pictures, and that they are&nbsp;posted&nbsp;regularly over time. This would produce a constant bandwidth of:</p>
+<p align=center>500ch * 1byte/ch *1.5 million = 750 Mbytes / day</p>
+<p align=center>or</p>
+<p align=center>70 kbps !</p>
+<p align=left>What? The most&nbsp;massive conversation of the world requires only 70 kbps? That&#8217;s less than a single digital broadcasting audio channel! That&#8217;s 30 million voices for the price of one! Let&#8217;s turn the numbers around once again: with 70 kbps we could have each and every Canadian (30 million, all ages!)&nbsp;broadcast one 500 characters message to all other Canadians every 20 days?!?</p>
+<p align=left>That&#8217;s impressive. Does that make sense?&nbsp;I think I would agree to trade a local FM station in my area&nbsp;for&nbsp;this new &#8220;Whole Blogosphere Channel&#8221;. Would you?</p>
+<p align=left>Technorati Tags : <a href="http://technorati.com/tag/broadcasting+blogosphere" target=_blank rel=tag>broadcasting+blogosphere</a>, <a href="http://technorati.com/tag/david+sifry" target=_blank rel=tag>david+sifry</a>, <a href="http://technorati.com/tag/state+blogosphere" target=_blank rel=tag>state+blogosphere</a>, <a href="http://technorati.com/tag/blogosphere+channel" target=_blank rel=tag>blogosphere+channel</a>, <a href="http://technorati.com/tag/blog+broadcast" target=_blank rel=tag>blog+broadcast</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bc20/2006/03/13/broadcasting-the-blogosphere-30-million-voices-for-the-price-of-one-2/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Rivendell GPL radio automation software suite</title>
+		<link>/bc20/2006/02/09/rivendell-gpl-radio-automation-software-suite/</link>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Fri, 10 Feb 2006 03:51:17 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Industry]]></category>
+		<category><![CDATA[Infrastructures]]></category>
+		<category><![CDATA[public broadcasting]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2006/02/09/rivendell-gpl-radio-automation-software-suite/</guid>
+
+					<description><![CDATA[Three weeks ago I reported about LiveSupport, an open radio automation software. Well, here is another platform I found:&#160;Rivendell. Doc Searls reports about it in his recent Linux Journal column: &#160; Rivendell aims to be a complete radio broadcast automation solution, with facilities for the acquisition, management, scheduling and playout of audio content. As a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>Three weeks ago I reported about <a href="http://www.broadcasting20.org/2006/01/19/open-source-automation-software-for-radio-stations/">LiveSupport</a>, an open radio automation software. Well, here is another platform I found:&nbsp;<a href="http://www.salemradiolabs.com/rivendell/">Rivendell</a>. <a href="http://www.docsearls.com/">Doc Searls</a> reports about it in his recent Linux Journal <a href="http://www.linuxjournal.com/article/8821">column</a>:</div>
+<div>&nbsp;</div>
+<blockquote dir=ltr style="MARGIN-RIGHT: 0px">
+<div>Rivendell aims to be a complete radio broadcast automation solution, with   facilities for the acquisition, management, scheduling and playout of audio   content. As a robust, functionally complete digital audio system for broadcast   radio applications, Rivendell uses industry standard components like the   GNU/Linux Operating System, the AudioScience HPI Driver Architecture and the   MySQL Database Engine. Rivendell is being developed under the GNU Public   License.</div>
+</blockquote>
+<div>&nbsp;</div>
+<div align=center><img alt=2006_02_09_salem_rivendell.gif src="/wp-content/2006_02_09_salem_rivendell.gif"/></div>
+<div align=center>&nbsp;</div>
+<div align=left>This looks like a very professionnal an complete radio automation suite that&#8217;s&nbsp;already being used in commercial ventures. Intersetingly, Rivendell can be used&nbsp;as the basis for&nbsp;internet radio as well.</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>receiver &#8211; Broadcasting 2.0</title>
+	<atom:link href="/bc20/tag/receiver/feed/" rel="self" type="application/rss+xml" />
+	<link>/bc20/</link>
+	<description>Emerging technologies for one-to-many telecommunications</description>
+	<lastBuildDate>Mon, 22 Mar 2010 18:28:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<item>
+		<title>DigiBnetwork Launches First DAB+ DIN Car Radio Receiver</title>
+		<link>/bc20/2010/03/22/digibnetwork-launches-first-dab-din-car-radio-receiver/</link>
+					<comments>/bc20/2010/03/22/digibnetwork-launches-first-dab-din-car-radio-receiver/#comments</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Mon, 22 Mar 2010 18:22:15 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[DAB]]></category>
+		<category><![CDATA[handsets]]></category>
+		<category><![CDATA[in-car]]></category>
+		<category><![CDATA[Openmokast]]></category>
+		<category><![CDATA[radio]]></category>
+		<category><![CDATA[receiver]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2010/03/22/digibnetwork-launches-first-dab-din-car-radio-receiver/</guid>
+
+					<description><![CDATA[A new receiver is always good news for an emerging technology like DAB. A more interesting aspect of this launch though is the context that made it possible. DigiBnetwork, a commercial broadcaster in Malta, convinced a manufacturer to produce a new DIN car receiver. DigiBnetwork went as far as to create and own this new [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>A new receiver is always good news for an emerging technology like DAB.</p>
+<p>A more interesting aspect of this launch though is the context that made it possible.</p>
+<p><a href="http://www.digibnetwork.com/">DigiBnetwork</a>, a commercial broadcaster in <a href="http://en.wikipedia.org/wiki/Malta">Malta</a>, convinced a manufacturer to produce a new DIN car receiver. DigiBnetwork went as far as to create and own this new &#8220;bluestate&#8221; brand. DigiBnetworks now sells the receiver through EBay and its website. This, in a sense, represents a &#8220;verticalized&#8221; business model as DigiBnetwork has control over a whole DAB ecosystem: content, network, receivers. We typically know this type of control from mobile communications operators.</p>
+<p>I find this development quite exciting because it shows that even a small country like Malta can influence new developments in consumer electronics. With this development, it looks like the huge economies of scale and size of markets are not required anymore to justify the production of new devices. This is something we&#8217;ve been saying for a few years now with our <a href="http://openmokast.org/">Openmokast</a> project which we hoped would catalyze the emergence of broadcast smart phones MADE BY BROADCASTERS.</p>
+<p>The &#8220;bluestate&#8221; car receiver seems to be a step in this direction. Congratulations DigiBnetwork!</p>
+<p>Lets see now who comes up with the first broadcaster-led smart phone.</p>
+<p><img src="http://www.broadcasting20.org/wp-content/uploads/2010/03/Inbox-CRC.png" width="499" height="231" alt="Inbox - CRC.png" style="float:right;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bc20/2010/03/22/digibnetwork-launches-first-dab-din-car-radio-receiver/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

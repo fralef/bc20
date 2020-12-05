@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: FemtoDAB	</title>
+	<atom:link href="/bc20/2009/06/24/femtodab/feed/" rel="self" type="application/rss+xml" />
+	<link>/bc20/2009/06/24/femtodab/</link>
+	<description>Emerging technologies for one-to-many telecommunications</description>
+	<lastBuildDate>Tue, 29 Sep 2009 13:23:39 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<item>
+		<title>
+		By: Richard M		</title>
+		<link>/bc20/2009/06/24/femtodab/comment-page-1/#comment-14776</link>
+
+		<dc:creator><![CDATA[Richard M]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2009 13:23:39 +0000</pubDate>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/06/24/femtodab/#comment-14776</guid>
+
+					<description><![CDATA[A Femtocell like approach is currently used in Australia for retailers.
+In Australia certain types of low power transmitter devices are allowed for certain uses without requiring a specific licence.  
+The regulator has declared that retailers of digital radio can use a low powered transmitter (about 1 mw amplifier power) at the point of sale to demonstrate DAB+ radios.  These transmitters use a rooftop antenna to receive the signal, a very low power amplifier and transmit antenna inside the building.  No echo cancellation is required as there is good isolation betwen the external roof top antenna and the indoor low power transmitter.  Network synchronisation is not an issue as the delay through the simple amplifier is negligible.
+There is no technical reason why such a solution could not be deployed domestically - but that is currently not a legal option.
+
+Richard]]></description>
+			<content:encoded><![CDATA[<p>A Femtocell like approach is currently used in Australia for retailers.<br />
+In Australia certain types of low power transmitter devices are allowed for certain uses without requiring a specific licence.<br />
+The regulator has declared that retailers of digital radio can use a low powered transmitter (about 1 mw amplifier power) at the point of sale to demonstrate DAB+ radios.  These transmitters use a rooftop antenna to receive the signal, a very low power amplifier and transmit antenna inside the building.  No echo cancellation is required as there is good isolation betwen the external roof top antenna and the indoor low power transmitter.  Network synchronisation is not an issue as the delay through the simple amplifier is negligible.<br />
+There is no technical reason why such a solution could not be deployed domestically &#8211; but that is currently not a legal option.</p>
+<p>Richard</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Sylvie Noel		</title>
+		<link>/bc20/2009/06/24/femtodab/comment-page-1/#comment-14262</link>
+
+		<dc:creator><![CDATA[Sylvie Noel]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2009 18:13:54 +0000</pubDate>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/06/24/femtodab/#comment-14262</guid>
+
+					<description><![CDATA[Question from a novice: could such an installation be used to give cell phone access to houses that are outside of the cell company&#039;s coverage area?]]></description>
+			<content:encoded><![CDATA[<p>Question from a novice: could such an installation be used to give cell phone access to houses that are outside of the cell company&#8217;s coverage area?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Administrator		</title>
+		<link>/bc20/2009/06/24/femtodab/comment-page-1/#comment-12397</link>
+
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Thu, 25 Jun 2009 12:27:30 +0000</pubDate>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/06/24/femtodab/#comment-12397</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/bc20/2009/06/24/femtodab/comment-page-1/#comment-12392&quot;&gt;MC&lt;/a&gt;.
+
+Agreed, roaming would be an issue. Doing seamless transitions another. In the situation of roaming from DAB into a FemtoDAB, the DAB receiver would have to communicate with the &quot;router&quot; to tell it which station it is currently listening to. One way to do this with an hybrid DAB/GSM device would be to send information about current service tuned through the general Internet  either with Wi-Fi or 3G
+
+Going the other way around, FemtoDAB to DAB would probably be easier in that the receiver would only have to look at the list of currently available stations in his geographical area to know if the one he&#039;s listening to in the FemtoDAB is available for roaming. No communication would be required between the FemtoDAB router and the receiver.
+
+Avoiding electromagnetic emissions from the receiver is a very good point. Who needs an alarm clock radiating into your head all night long!
+ ]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/bc20/2009/06/24/femtodab/comment-page-1/#comment-12392">MC</a>.</p>
+<p>Agreed, roaming would be an issue. Doing seamless transitions another. In the situation of roaming from DAB into a FemtoDAB, the DAB receiver would have to communicate with the &#8220;router&#8221; to tell it which station it is currently listening to. One way to do this with an hybrid DAB/GSM device would be to send information about current service tuned through the general Internet  either with Wi-Fi or 3G</p>
+<p>Going the other way around, FemtoDAB to DAB would probably be easier in that the receiver would only have to look at the list of currently available stations in his geographical area to know if the one he&#8217;s listening to in the FemtoDAB is available for roaming. No communication would be required between the FemtoDAB router and the receiver.</p>
+<p>Avoiding electromagnetic emissions from the receiver is a very good point. Who needs an alarm clock radiating into your head all night long!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: MC		</title>
+		<link>/bc20/2009/06/24/femtodab/comment-page-1/#comment-12392</link>
+
+		<dc:creator><![CDATA[MC]]></dc:creator>
+		<pubDate>Thu, 25 Jun 2009 08:52:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/06/24/femtodab/#comment-12392</guid>
+
+					<description><![CDATA[Interesting concept.
+
+However in the case of repeater, the issue would be to synchronize with outside network (SFN) or if it is on another frequency, to signal it so that handover can happen. (It would be easier if broadcasters would make their ETI feed available on the Internet)
+
+In the case of personal broadcasting, as added value compared to simple low power FM transmitter or wifi audio interfaces, I would see:
+- solve the difficulty sometime to find available frequency as FM band is full in some cities.
+- better audio quality (except for wifi audio interface where you can reach high audio quality)
+- simultaneous broadcasting of different content (playlist)
+- compared to wifi devices, no radiation from receiver. This may sound silly but I know more and more people that avoid wifi devices because of fear of radio waves, especially in bedrooms.
+
+The big issue will be the cost I guess....]]></description>
+			<content:encoded><![CDATA[<p>Interesting concept.</p>
+<p>However in the case of repeater, the issue would be to synchronize with outside network (SFN) or if it is on another frequency, to signal it so that handover can happen. (It would be easier if broadcasters would make their ETI feed available on the Internet)</p>
+<p>In the case of personal broadcasting, as added value compared to simple low power FM transmitter or wifi audio interfaces, I would see:<br />
+&#8211; solve the difficulty sometime to find available frequency as FM band is full in some cities.<br />
+&#8211; better audio quality (except for wifi audio interface where you can reach high audio quality)<br />
+&#8211; simultaneous broadcasting of different content (playlist)<br />
+&#8211; compared to wifi devices, no radiation from receiver. This may sound silly but I know more and more people that avoid wifi devices because of fear of radio waves, especially in bedrooms.</p>
+<p>The big issue will be the cost I guess&#8230;.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

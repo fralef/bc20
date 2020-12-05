@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: RDS Enabled Handhelds	</title>
+	<atom:link href="/bc20/2009/04/24/rds-enabled-handhelds/feed/" rel="self" type="application/rss+xml" />
+	<link>/bc20/2009/04/24/rds-enabled-handhelds/</link>
+	<description>Emerging technologies for one-to-many telecommunications</description>
+	<lastBuildDate>Sat, 25 Apr 2009 22:41:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<item>
+		<title>
+		By: James Cridland		</title>
+		<link>/bc20/2009/04/24/rds-enabled-handhelds/comment-page-1/#comment-10908</link>
+
+		<dc:creator><![CDATA[James Cridland]]></dc:creator>
+		<pubDate>Sat, 25 Apr 2009 22:41:17 +0000</pubDate>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/04/24/rds-enabled-handhelds/#comment-10908</guid>
+
+					<description><![CDATA[And better, when you have RDS in your radio, then you can also use open technologies like RadioDNS ( www.radiodns.org ) to link the radio to the data connection in that phone. So, you get all manner of things you could do, like adding visuals, or an electronic program guide, or even &quot;buy this song now&quot; functionality...]]></description>
+			<content:encoded><![CDATA[<p>And better, when you have RDS in your radio, then you can also use open technologies like RadioDNS ( <a href="http://www.radiodns.org/" rel="nofollow ugc">http://www.radiodns.org/</a> ) to link the radio to the data connection in that phone. So, you get all manner of things you could do, like adding visuals, or an electronic program guide, or even &#8220;buy this song now&#8221; functionality&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Internet &#8211; Broadcasting 2.0</title>
+	<atom:link href="/bc20/tag/internet/feed/" rel="self" type="application/rss+xml" />
+	<link>/bc20/</link>
+	<description>Emerging technologies for one-to-many telecommunications</description>
+	<lastBuildDate>Thu, 26 Nov 2009 15:05:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<item>
+		<title>Livio NPR Radio</title>
+		<link>/bc20/2009/11/26/livio-npr-radio/</link>
+					<comments>/bc20/2009/11/26/livio-npr-radio/#comments</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Thu, 26 Nov 2009 14:14:00 +0000</pubDate>
+				<category><![CDATA[Consumer devices]]></category>
+		<category><![CDATA[Industry]]></category>
+		<category><![CDATA[Networked media]]></category>
+		<category><![CDATA[public broadcasting]]></category>
+		<category><![CDATA[Services]]></category>
+		<category><![CDATA[appliance]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Internet streaming]]></category>
+		<category><![CDATA[livio]]></category>
+		<category><![CDATA[npr]]></category>
+		<category><![CDATA[radio]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/11/26/livio-npr-radio/</guid>
+
+					<description><![CDATA[Livio announces its NPR branded Internet Radio Appliance. This device will offer a specialized menu to easily access NPR&#8217;s 800 radio stations. Of course, all other Internet radio stations can be accessed as well. Are such &#8220;specialized&#8221; devices the future? We&#8217;ve seen the WikiReader recently which only does one thing: portable unconnected access to Wikipedia. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img src="http://www.broadcasting20.org/wp-content/uploads/2009/11/The-NPR-Radio-by-Livio_-NPR-Shop.png" width="246" height="146" alt="The NPR Radio by Livio_ NPR Shop.png" style="float:right;" /><a href="http://www.livioradio.com/" title="Livio">Livio</a> announces its <a href="http://www.livioradio.com/npr-radio/" title="NPR Radio">NPR branded Internet Radio Appliance</a>. This device will offer a specialized menu to easily access NPR&#8217;s 800 radio stations. Of course, all other Internet radio stations can be accessed as well.</p>
+<p>Are such &#8220;specialized&#8221; devices the future? We&#8217;ve seen the <a href="http://www.thewikireader.com/" title="WikiReader">WikiReader</a> recently which only does one thing: portable unconnected access to Wikipedia.</p>
+<p>I don&#8217;t know but it makes great sense to me. I would love to see a CBC / Radio-Canada device like this. CBC/RC have great Internet offerings but they tend to &#8220;capture&#8221; the audience into their branded web portals. Because of this, many CBC/RC Internet radio streams are not accessible through Internet appliances other than full fledged PC&#8217;s. A branded device seems to be a good compromise to escape the PC prison.</p>
+<p>Another very promising effect of this device is that it will help fund NPR&#8217;s programming since they will collect a portion of the proceeds. What an original way to fund public broadcasters!</p>
+<p>&nbsp;&nbsp;&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bc20/2009/11/26/livio-npr-radio/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Royalty-Free Public Domain &#8211; A path towards Ubiquity</title>
+		<link>/bc20/2009/07/08/royalty-free-public-domain-a-path-towards-ubiquity/</link>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Wed, 08 Jul 2009 20:04:01 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Infrastructures]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[MMB]]></category>
+		<category><![CDATA[patents]]></category>
+		<category><![CDATA[publicdomain]]></category>
+		<category><![CDATA[royalties]]></category>
+		<category><![CDATA[royaltyfree]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/07/08/royalty-free-public-domain-a-path-towards-ubiquity/</guid>
+
+					<description><![CDATA[I read this excellent story some time ago in Vanity Fair titled &#8220;An oral history of the Internet&#8220;. I believe that one of the reasons why the Internet is what it is now comes from the fact that the Web is a royalty-free technology. And that does not happen by itself. To produce RF-tech these [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>I read this excellent story some time ago in Vanity Fair titled &#8220;<a href="http://www.vanityfair.com/culture/features/2008/07/internet200807">An oral history of the Internet</a>&#8220;. I believe that one of the reasons why the Internet is what it is now comes from the fact that the Web is a royalty-free technology. And that does not happen by itself. To produce RF-tech these days, one has got to fight for it and give up potential revenue streams. That is what the CERN team did. <strong>Robert Cailliau</strong> says<strong>:</strong></p>
+<blockquote>
+<p><i>&#8220;At one point</i> <span class="sc"><i>cern</i></span> <i>was toying with patenting the World Wide Web. I was talking about that with Tim one day, and he looked at me, and I could see that he wasn’t enthusiastic. He said, Robert, do you want to be rich? I thought, Well, it helps, no? He apparently didn’t care about that. What he cared about was to make sure that the thing would work, that it would just be there for everybody. He convinced me of that, and then I worked for about six months, very hard with the legal service, to make sure that</i> <span class="sc"><i>cern</i></span> <i>put the whole thing in the public domain.&#8221;</i></p>
+</blockquote>
+<p>The least we can say is that the strategy worked. The Web is now ubiquitous.</p>
+<p>Is there a lesson here for creating the mobile broadcast system of tomorrow?</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ads worth more on the net than on TV</title>
+		<link>/bc20/2009/06/30/ads-worth-more-on-the-net-than-on-tv/</link>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Tue, 30 Jun 2009 12:54:17 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Industry]]></category>
+		<category><![CDATA[Networked media]]></category>
+		<category><![CDATA[Services]]></category>
+		<category><![CDATA[advertising]]></category>
+		<category><![CDATA[broadcasting 2.0]]></category>
+		<category><![CDATA[HBB]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[new media]]></category>
+		<category><![CDATA[TV]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/06/30/ads-worth-more-on-the-net-than-on-tv/</guid>
+
+					<description><![CDATA[PC world reports that for the first time, advertising during a specific &#8220;TV&#8221; show will cost more on the net than on traditional TV channel: If a company wants to run ads alongside an episode of The Simpsons on Hulu or TV.com it will cost the advertiser about $60 per thousand viewers, according to Bloomberg. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.pcworld.com/article/167344">PC world</a> reports that for the first time, advertising during a specific &#8220;TV&#8221; show will cost more on the net than on traditional TV channel:</p>
+<blockquote>
+<p>If a company wants to run ads alongside an episode of The Simpsons on <a href="http://www.pcworld.com/article/166104/hulu_may_begin_charging_for_content.html?tk=rel_news" target="_blank">Hulu</a> or <a href="http://www.pcworld.com/article/160350/cbs_releases_tvcom_iphone_app.html?tk=rel_news" target="_blank">TV.com</a> it will cost the advertiser about $60 per thousand viewers, according to <a href="http://www.bloomberg.com/apps/news?pid=20601204&amp;sid=atKGiQOMco.Y" target="_blank">Bloomberg</a>. On prime-time TV that same ad will cost somewhere between $20 and $40 per thousand viewers.</p>
+</blockquote>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>In-car Wi-Fi Internet Radio</title>
+		<link>/bc20/2009/06/24/in-car-wi-fi-internet-radio/</link>
+					<comments>/bc20/2009/06/24/in-car-wi-fi-internet-radio/#comments</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Wed, 24 Jun 2009 19:19:36 +0000</pubDate>
+				<category><![CDATA[Consumer devices]]></category>
+		<category><![CDATA[Infrastructures]]></category>
+		<category><![CDATA[Mobility]]></category>
+		<category><![CDATA[Networked media]]></category>
+		<category><![CDATA[3G]]></category>
+		<category><![CDATA[Channels]]></category>
+		<category><![CDATA[in-car]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Internet streaming]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[radio]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/06/24/in-car-wi-fi-internet-radio/</guid>
+
+					<description><![CDATA[As Internet radio appliances are becoming available, there is still the issue that they can&#8217;t be used in your car. This could change thanks to so-called &#8220;in-car WiFi routers&#8221; which are designed to provide Internet access through 3G mobile telephony networks. AutoNet Mobile offers such device and service combination: we create a Wi-Fi hot spot [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>As Internet radio appliances are becoming available, there is still the issue that they can&#8217;t be used in your car.</p>
+<p>This could change thanks to so-called &#8220;in-car WiFi routers&#8221; which are designed to provide Internet access through 3G mobile telephony networks.</p>
+<p><a href="http://www.autonetmobile.com/">AutoNet Mobile</a> offers such device and service combination:</p>
+<blockquote>
+<p>we create a Wi-Fi hot spot that allows everyone in the car to connect multiple devices to the internet, in and around the car! it’s the next step in in-car entertainment and productvity. we make internet in your car easier than ever because we provide both the in-car router and the monthly service. our affordable monthly service plans start at only $29 per month.</p>
+</blockquote>
+<p>This still represent an expensive proposition for radio though. One hour daily consumption of good quality Internet radio content could easily reach the 29$ 1Gb limit.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bc20/2009/06/24/in-car-wi-fi-internet-radio/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Where They Destroy Packets&#8230;</title>
+		<link>/bc20/2009/05/14/where-they-destroy-packets/</link>
+					<comments>/bc20/2009/05/14/where-they-destroy-packets/#comments</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Fri, 15 May 2009 00:25:49 +0000</pubDate>
+				<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Legislation]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[DPI]]></category>
+		<category><![CDATA[Internet]]></category>
+		<guid isPermaLink="false">http://www.broadcasting20.org/2009/05/14/where-they-destroy-packets/</guid>
+
+					<description><![CDATA[I never had a good memory for proverbs and quotes. However, this one (in bold below) by &#8220;Heinrich Heine&#8221; stuck in my mind when I heard it some 15 years ago while visiting north Germany (Wikipedia excerpt): Among the thousands of books burned on Berlin&#8217;s Opernplatz in 1933, following the Nazi raid on the Institut [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>I never had a good memory for proverbs and quotes. However, this one (in bold below) by &#8220;<a href="http://en.wikipedia.org/wiki/Heinrich_Heine">Heinrich Heine</a>&#8221; stuck in my mind when I heard it some 15 years ago while visiting north Germany (Wikipedia excerpt):</p>
+<blockquote>
+<p>Among the thousands of books burned on Berlin&#8217;s Opernplatz in 1933, following the Nazi raid on the Institut für Sexualwissenschaft, were works by Heinrich Heine. To commemorate the terrible event, one of the most famous lines of Heine&#8217;s 1821 play Almansor was engraved in the ground at the site: <strong><em>&#8220;Dort, wo man Bücher verbrennt, verbrennt man am Ende auch Menschen.&#8221; (&#8220;Where they burn books, they will ultimately also burn people.&#8221;)</em></strong> In the original text, Heine had been referring to the burning of the Quran during the Spanish Inquisition.</p>
+</blockquote>
+<p>I&#8217;ve been trying to figure out a way to express the same idea but in relation to the Internet and the fact that it is being <a href="http://dpi.priv.gc.ca/">deep packet inspected</a> and throttled and filtered and fire-walled. I&#8217;m not so sure I figured it out yet but I came up with this line:</p>
+<blockquote>
+<p><em><strong>&#8220;Where they destroy packets, they will ultimately also destroy people&#8221;</strong></em></p>
+</blockquote>
+<p>I like it. Any ideas on how to improve it?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bc20/2009/05/14/where-they-destroy-packets/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
